@@ -1,0 +1,740 @@
+>XP_054218125.1 zinc finger protein 483 isoform X1 [Homo sapiens]
+contains the zinc finger site: CSKCGIIFIRRSTLSRRKTPMCEKC
+at locations:
+Start at: 391 End at: 416
+MQAVVPLNKMTAISPEPQTLASTEQNEVPRVVTSGEQEAILRGNAADAES
+                                                  
+FRQRFRWFCYSEVAGPRKALSQLWELCNQWLRPDIHTKEQILELLVFEQF
+                                                  
+LTILPGEIRIWVKSQHPESSEEVVTLIEDLTQMLEEKDPVSQDSTVSQEE
+                                                  
+NSKEDKMVTVCPNTESCESITLKDVAVNFSRGEWKKLEPFQKELYKEVLL
+                                                  
+ENLRNLEFLDFPVSKLELISQLKWVELPWLLEEVSKSSRLDESALDKIIE
+                                                  
+RCLRDDDHGLMEESQQYCGSSEEDHGNQGNSKGRVAQNKTLGSGSRGKKF
+                                                  
+DPDKSPFGHNFKETSDLIKHLRVYLRKKSRRYNESKKPFSFHSDLVLNRK
+                                                  
+EKTAGEKSRKSNDGGKVLSHSSALTEHQKRQKIHLGDRSQKCSKCGIIFI
+                                         *********
+RRSTLSRRKTPMCEKCRKDSCQEAALNKDEGNESGEKTHKCSKCGKAFGY
+****************                                  
+SASLTKHRRIHTGEKPYMCNECGKAFSDSSSLTPHHRTHSGEKPFKCDDC
+                                                  
+GKGFTLSAHLIKHQRIHTGEKPYKCKDCGRPFSDSSSLIQHQRIHTGEKP
+                                                  
+YTCSNCGKSFSHSSSLSKHQRIHTGEKPYKCGECGKAFRQNSCLTRHQRI
+                                                  
+HTGEKPYLCNDCGMTFSHFTSVIYHQRLHSGEKPYKCNQCEKAFPTHSLL
+                                                  
+SRHQRIHTGVKPYKCKECGKSFSQSSSLNEHHRIHTGEKPYECNYCGATF
+                                                  
+SRSSILVEHLKIHTGRREYECNECEKTFKSNSGLIRHRGFHSAE
+                                            
+>XP_054218124.1 zinc finger protein 483 isoform X1 [Homo sapiens]
+contains the zinc finger site: CSKCGIIFIRRSTLSRRKTPMCEKC
+at locations:
+Start at: 391 End at: 416
+MQAVVPLNKMTAISPEPQTLASTEQNEVPRVVTSGEQEAILRGNAADAES
+                                                  
+FRQRFRWFCYSEVAGPRKALSQLWELCNQWLRPDIHTKEQILELLVFEQF
+                                                  
+LTILPGEIRIWVKSQHPESSEEVVTLIEDLTQMLEEKDPVSQDSTVSQEE
+                                                  
+NSKEDKMVTVCPNTESCESITLKDVAVNFSRGEWKKLEPFQKELYKEVLL
+                                                  
+ENLRNLEFLDFPVSKLELISQLKWVELPWLLEEVSKSSRLDESALDKIIE
+                                                  
+RCLRDDDHGLMEESQQYCGSSEEDHGNQGNSKGRVAQNKTLGSGSRGKKF
+                                                  
+DPDKSPFGHNFKETSDLIKHLRVYLRKKSRRYNESKKPFSFHSDLVLNRK
+                                                  
+EKTAGEKSRKSNDGGKVLSHSSALTEHQKRQKIHLGDRSQKCSKCGIIFI
+                                         *********
+RRSTLSRRKTPMCEKCRKDSCQEAALNKDEGNESGEKTHKCSKCGKAFGY
+****************                                  
+SASLTKHRRIHTGEKPYMCNECGKAFSDSSSLTPHHRTHSGEKPFKCDDC
+                                                  
+GKGFTLSAHLIKHQRIHTGEKPYKCKDCGRPFSDSSSLIQHQRIHTGEKP
+                                                  
+YTCSNCGKSFSHSSSLSKHQRIHTGEKPYKCGECGKAFRQNSCLTRHQRI
+                                                  
+HTGEKPYLCNDCGMTFSHFTSVIYHQRLHSGEKPYKCNQCEKAFPTHSLL
+                                                  
+SRHQRIHTGVKPYKCKECGKSFSQSSSLNEHHRIHTGEKPYECNYCGATF
+                                                  
+SRSSILVEHLKIHTGRREYECNECEKTFKSNSGLIRHRGFHSAE
+                                            
+>XP_054218123.1 zinc finger protein 483 isoform X1 [Homo sapiens]
+contains the zinc finger site: CSKCGIIFIRRSTLSRRKTPMCEKC
+at locations:
+Start at: 391 End at: 416
+MQAVVPLNKMTAISPEPQTLASTEQNEVPRVVTSGEQEAILRGNAADAES
+                                                  
+FRQRFRWFCYSEVAGPRKALSQLWELCNQWLRPDIHTKEQILELLVFEQF
+                                                  
+LTILPGEIRIWVKSQHPESSEEVVTLIEDLTQMLEEKDPVSQDSTVSQEE
+                                                  
+NSKEDKMVTVCPNTESCESITLKDVAVNFSRGEWKKLEPFQKELYKEVLL
+                                                  
+ENLRNLEFLDFPVSKLELISQLKWVELPWLLEEVSKSSRLDESALDKIIE
+                                                  
+RCLRDDDHGLMEESQQYCGSSEEDHGNQGNSKGRVAQNKTLGSGSRGKKF
+                                                  
+DPDKSPFGHNFKETSDLIKHLRVYLRKKSRRYNESKKPFSFHSDLVLNRK
+                                                  
+EKTAGEKSRKSNDGGKVLSHSSALTEHQKRQKIHLGDRSQKCSKCGIIFI
+                                         *********
+RRSTLSRRKTPMCEKCRKDSCQEAALNKDEGNESGEKTHKCSKCGKAFGY
+****************                                  
+SASLTKHRRIHTGEKPYMCNECGKAFSDSSSLTPHHRTHSGEKPFKCDDC
+                                                  
+GKGFTLSAHLIKHQRIHTGEKPYKCKDCGRPFSDSSSLIQHQRIHTGEKP
+                                                  
+YTCSNCGKSFSHSSSLSKHQRIHTGEKPYKCGECGKAFRQNSCLTRHQRI
+                                                  
+HTGEKPYLCNDCGMTFSHFTSVIYHQRLHSGEKPYKCNQCEKAFPTHSLL
+                                                  
+SRHQRIHTGVKPYKCKECGKSFSQSSSLNEHHRIHTGEKPYECNYCGATF
+                                                  
+SRSSILVEHLKIHTGRREYECNECEKTFKSNSGLIRHRGFHSAE
+                                            
+>XP_054218122.1 zinc finger protein 483 isoform X1 [Homo sapiens]
+contains the zinc finger site: CSKCGIIFIRRSTLSRRKTPMCEKC
+at locations:
+Start at: 391 End at: 416
+MQAVVPLNKMTAISPEPQTLASTEQNEVPRVVTSGEQEAILRGNAADAES
+                                                  
+FRQRFRWFCYSEVAGPRKALSQLWELCNQWLRPDIHTKEQILELLVFEQF
+                                                  
+LTILPGEIRIWVKSQHPESSEEVVTLIEDLTQMLEEKDPVSQDSTVSQEE
+                                                  
+NSKEDKMVTVCPNTESCESITLKDVAVNFSRGEWKKLEPFQKELYKEVLL
+                                                  
+ENLRNLEFLDFPVSKLELISQLKWVELPWLLEEVSKSSRLDESALDKIIE
+                                                  
+RCLRDDDHGLMEESQQYCGSSEEDHGNQGNSKGRVAQNKTLGSGSRGKKF
+                                                  
+DPDKSPFGHNFKETSDLIKHLRVYLRKKSRRYNESKKPFSFHSDLVLNRK
+                                                  
+EKTAGEKSRKSNDGGKVLSHSSALTEHQKRQKIHLGDRSQKCSKCGIIFI
+                                         *********
+RRSTLSRRKTPMCEKCRKDSCQEAALNKDEGNESGEKTHKCSKCGKAFGY
+****************                                  
+SASLTKHRRIHTGEKPYMCNECGKAFSDSSSLTPHHRTHSGEKPFKCDDC
+                                                  
+GKGFTLSAHLIKHQRIHTGEKPYKCKDCGRPFSDSSSLIQHQRIHTGEKP
+                                                  
+YTCSNCGKSFSHSSSLSKHQRIHTGEKPYKCGECGKAFRQNSCLTRHQRI
+                                                  
+HTGEKPYLCNDCGMTFSHFTSVIYHQRLHSGEKPYKCNQCEKAFPTHSLL
+                                                  
+SRHQRIHTGVKPYKCKECGKSFSQSSSLNEHHRIHTGEKPYECNYCGATF
+                                                  
+SRSSILVEHLKIHTGRREYECNECEKTFKSNSGLIRHRGFHSAE
+                                            
+>XP_054202749.1 zinc finger MYND domain-containing protein 10 isoform X1 [Homo sapiens]
+contains the zinc finger site: CAYCSAEASKRCSRCQNEWYCCREC
+at locations:
+Start at: 314 End at: 339
+MWKQKVFPVFCRVEDFKPQNTFPIYMVVHHEASIINLLETVFFHKEVCES
+                                                  
+AEDTVLDLVDYCHRKLTLLVAQSGCGGPPEGEGSQDSNPMQELQKQAELM
+                                                  
+EFEIALKALSVLRYITDCVDSLSLSTLSRMLSTHNLPCLLVELLEHSPWS
+                                                  
+RREGGKLQQFEGSRWHTVAPSEQQKLSKLDGQVWIALYNLLLSPEAQARY
+                                                  
+CLTSFAKGRLLKLRAFLTDTLLDQLPNLAHLQSFLAHLTLTETQPPKKDL
+                                                  
+VLEQIPEIWERLERENRGKWQAIAKHQLQHVFSPSEQDLRLQARRWAETY
+                                                  
+RLDVLEAVAPERPRCAYCSAEASKRCSRCQNEWYCCRECQVKHWEKHGKT
+              *************************           
+CVLAAQGDRAK
+           
+>XP_054232200.1 zinc finger FYVE domain-containing protein 1 isoform X1 [Homo sapiens]
+contains the zinc finger site: CDLCKGLSGHLPGVRQRAIVRCQTC
+at locations:
+Start at: 70 End at: 95
+MSAQTSPAEKGLNPGLMCQESYACSGTDEAIFECDECCSLQCLRCEEELH
+                                                  
+RQERLRNHERIRLKPGHVPYCDLCKGLSGHLPGVRQRAIVRCQTCKINLC
+                    *************************     
+LECQKRTHSGGNKRRHPVTVYNVSNLQESLEAEEMDEETKRKKMTEKVVS
+                                                  
+FLLVDENEEIQVTNEEDFIRKLDCKPDQHLKVVSIFGNTGDGKSHTLNHT
+                                                  
+FFYGREVFKTSPTQESCTVGVWAAYDPVHKVAVIDTEGLLGATVNLSQRT
+                                                  
+RLLLKVLAISDLVIYRTHADRLHNDLFKFLGDASEAYLKHFTKELKATTA
+                                                  
+RCGLDVPLSTLGPAVIIFHETVHTQLLGSDHPSEVPEKLIQDRFRKLGRF
+                                                  
+PEAFSSIHYKGTRTYNPPTDFSGLRRALEQLLENNTTRSPRHPGVIFKAL
+                                                  
+KALSDRFSGEIPDDQMAHSSFFPDEYFTCSSLCLSCGVGCKKSMNHGKEG
+                                                  
+VPHEAKSRCRYSHQYDNRVYTCKVCDRMS
+                             
+>XP_054178258.1 zinc finger protein neuro-d4 isoform X11 [Homo sapiens]
+contains the zinc finger site: CIECKSCSLCGTSENDDQLLFCDDC
+at locations:
+Start at: 303 End at: 328
+MATAIQNPLKSLGEDFYREAIEHCRSYNARLCAERSLRLPFLDSQTGVAQ
+                                                  
+NNCYIWMEKTHRGPGLAPGQIYTYPARCWRKKRRLNILEDPRLRPCEYKI
+                                                  
+DCEAPLKKEGGLPEGPVLEALLCAETGEKKIELKEEETIMDCQQLLEFPH
+                                                  
+DLEVEDLEDDIPRRKNRAKGKAYGIGGLRKRQDTASLEDRDKPYVCDICG
+                                                  
+KRYKNRPGLSYHYTHTHLAEEEGEENAERHALPFHRKNNHKPKKAPDGTV
+                                                  
+IPNGYCDFCLGGSKKTGCPEDLISCADCGRSGHPSCLQFTVNMTAAVRTY
+                                                  
+RWQCIECKSCSLCGTSENDDQLLFCDDCDRGYHMYCLSPPMAEPPEGSWS
+   *************************                      
+CHLCLRHLKEKASAYITLT
+                   
+>XP_054178257.1 zinc finger protein neuro-d4 isoform X10 [Homo sapiens]
+contains the zinc finger site: CIECKSCSLCGTSENDDQLLFCDDC
+at locations:
+Start at: 304 End at: 329
+MATVIPGPLSLGEDFYREAIEHCRSYNARLCAERSLRLPFLDSQTGVAQN
+                                                  
+NCYIWMEKTHRGPGLAPGQIYTYPARCWRKKRRLNILEDPRLRPCEYKID
+                                                  
+CEAPLKKEGGLPEGPVLEALLCAETGEKKIELKEEETIMDCQKQQLLEFP
+                                                  
+HDLEVEDLEDDIPRRKNRAKGKAYGIGGLRKRQDTASLEDRDKPYVCDIC
+                                                  
+GKRYKNRPGLSYHYTHTHLAEEEGEENAERHALPFHRKNNHKPKKAPDGT
+                                                  
+VIPNGYCDFCLGGSKKTGCPEDLISCADCGRSGHPSCLQFTVNMTAAVRT
+                                                  
+YRWQCIECKSCSLCGTSENDDQLLFCDDCDRGYHMYCLSPPMAEPPEGSW
+    *************************                     
+SCHLCLRHLKEKASAYITLT
+                    
+>XP_054178256.1 zinc finger protein neuro-d4 isoform X9 [Homo sapiens]
+contains the zinc finger site: CIECKSCSLCGTSENDDQLLFCDDC
+at locations:
+Start at: 305 End at: 330
+MATAIQNPLKSLGEDFYREAIEHCRSYNARLCAERSLRLPFLDSQTGVAQ
+                                                  
+NNCYIWMEKTHRGPGLAPGQIYTYPARCWRKKRRLNILEDPRLRPCEYKI
+                                                  
+DCEAPLKKEGGLPEGPVLEALLCAETGEKKIELKEEETIMDCQKQQLLEF
+                                                  
+PHDLEVEDLEDDIPRRKNRAKGKAYGIGGLRKRQDTASLEDRDKPYVCDI
+                                                  
+CGKRYKNRPGLSYHYTHTHLAEEEGEENAERHALPFHRKNNHKPKKAPDG
+                                                  
+TVIPNGYCDFCLGGSKKTGCPEDLISCADCGRSGHPSCLQFTVNMTAAVR
+                                                  
+TYRWQCIECKSCSLCGTSENDDQLLFCDDCDRGYHMYCLSPPMAEPPEGS
+     *************************                    
+WSCHLCLRHLKEKASAYITLT
+                     
+>XP_054178252.1 zinc finger protein neuro-d4 isoform X5 [Homo sapiens]
+contains the zinc finger site: CIECKSCSLCGTSENDDQLLFCDDC
+at locations:
+Start at: 319 End at: 344
+MATVIPGPLSLGEDFYREAIEHCRSYNARLCAERSLRLPFLDSQTGVAQN
+                                                  
+NCYIWMEKTHRGPGLAPGQIYTYPARCWRKKRRLNILEDPRLRPCEYKID
+                                                  
+CEAPLKKEGGLPEGPVLEALLCAETGEKKIELKEEETIMDCQQLLEFPHD
+                                                  
+LEVEDLEDDIPRRKNRAKGKAYGIGGLRKRQDTASLEDRDKPYVCDICGK
+                                                  
+RYKNRPGLSYHYTHTHLAEEEGEENAERHALPFHRKNNHKQFYKELAWVP
+                                                  
+EAQRKHTAKKAPDGTVIPNGYCDFCLGGSKKTGCPEDLISCADCGRSGHP
+                                                  
+SCLQFTVNMTAAVRTYRWQCIECKSCSLCGTSENDDQLLFCDDCDRGYHM
+                   *************************      
+YCLSPPMAEPPEGSWSCHLCLRHLKEKASAYITLT
+                                   
+>XP_054178251.1 zinc finger protein neuro-d4 isoform X4 [Homo sapiens]
+contains the zinc finger site: CIECKSCSLCGTSENDDQLLFCDDC
+at locations:
+Start at: 320 End at: 345
+MATAIQNPLKSLGEDFYREAIEHCRSYNARLCAERSLRLPFLDSQTGVAQ
+                                                  
+NNCYIWMEKTHRGPGLAPGQIYTYPARCWRKKRRLNILEDPRLRPCEYKI
+                                                  
+DCEAPLKKEGGLPEGPVLEALLCAETGEKKIELKEEETIMDCQQLLEFPH
+                                                  
+DLEVEDLEDDIPRRKNRAKGKAYGIGGLRKRQDTASLEDRDKPYVCDICG
+                                                  
+KRYKNRPGLSYHYTHTHLAEEEGEENAERHALPFHRKNNHKQFYKELAWV
+                                                  
+PEAQRKHTAKKAPDGTVIPNGYCDFCLGGSKKTGCPEDLISCADCGRSGH
+                                                  
+PSCLQFTVNMTAAVRTYRWQCIECKSCSLCGTSENDDQLLFCDDCDRGYH
+                    *************************     
+MYCLSPPMAEPPEGSWSCHLCLRHLKEKASAYITLT
+                                    
+>XP_054234984.1 abscission/NoCut checkpoint regulator isoform X2 [Homo sapiens]
+contains the zinc finger site: CSGCLSFSAAVPRTGNTQQKVCKQC
+at locations:
+Start at: 103 End at: 128
+MNYDSQQPPLPPLPYAGCRRASGFPALGRGGTVPVGVWGGAGQGREGRSW
+                                                  
+GEGPRGPGLGRRDLSSADPAVLGATMESRCYGCAVKFTLFKKEYGCKNCG
+                                                  
+RAFCSGCLSFSAAVPRTGNTQQKVCKQCHEVLTRGSSANASKWSPPQNYK
+   *************************                      
+KRVAALEAKQKPSTSQSQGLTRQDQMIAERLARLRQENKPRNGGTTCSVA
+                                                  
+GQSSTFSNPPAGVGKASHPYLLILRPATRPGDQGQTAR
+                                      
+>sp|P0DTL6.1|ZTRF1_HUMAN RecName: Full=Zinc finger TRAF-type-containing protein 1; AltName: Full=Cysteine and histidine-rich protein 1
+contains the zinc finger site: CTVCLDLPKASVYQCTNGHLMCAGC
+at locations:
+Start at: 110 End at: 135
+MSGAEEAGGGGPAAGPAGSVPAGVGVGVGAGPGAAAGQAAAAALGEAAGP
+                                                  
+GLPDEAGLAGARQLQLQEAAGDPDAPPKKRLRAAEAAEAAAAAAAAGSGK
+                                                  
+LEERLYSVLCCTVCLDLPKASVYQCTNGHLMCAGCFIHLLADARLKEEQA
+          *************************               
+TCPNCRCEISKSLCCRNLAVEKAVSELPSECGFCLRQFPRSLLERHQKEE
+                                                  
+CQDRVTQCKYKRIGCPWHGPFHELTVHEAACAHPTKTGSELMEILDGMDQ
+                                                  
+SHRKEMQLYNSIFSLLSFEKIGYTEVQFRPYRTDDFITRLYYETPRFTVL
+                                                  
+NQTWVLKARVNDSERNPNLSCKRTLSFQLLLKSKVTAPLECSFLLLKGPY
+                                                  
+DDVRISPVIYHFVFTNESNETDYVPLPIIDSVECNKLLAAKNINLRLFLF
+                                                  
+QIQK
+    
+>WEL39295.1 GATA zinc finger protein [Encephalitozoon hellem]
+contains the zinc finger site: CSNCNTTATPLWRRAEDGSYLCNAC
+at locations:
+Start at: 7 End at: 32
+MLTKQGFCSNCNTTATPLWRRAEDGSYLCNACGLYYKIHGRKRPTSFKTD
+       *************************                  
+SSKPRVRCRRISGEMHSAHGSEMLWSTYKHRSRMQSSFGFQHEENQVNSA
+                                                  
+CKYKDYPAKHKDFKRGEGASQTDSSKNAFYEDFGMPRYDRSATPEDRRDY
+                                                  
+RRDTNIAAKSLIRRHFDKRPGRIPTFMGGAEDEGAMNEEKVGKTSSSPWA
+                                                  
+KVKEEEHEADLEDSEVIAINALLDLSRERI
+                              
+>WCJ78636.1 TraR/DksA C4-type zinc finger protein [Clostridium botulinum]
+contains the zinc finger site: CKSCGKHIPKERLEFVPYAEFCVKC
+at locations:
+Start at: 91 End at: 116
+MDKNSLEYFKNKLIREKESVNSLLEEMKNNETIDSNSAISMELSNYDNHP
+                                                  
+ADTGSELFEKEKGLALKENEISIMKKINDALKNIEDGSYGVCKSCGKHIP
+                                         *********
+KERLEFVPYAEFCVKCQNEVSGKNVRKVQRPIEEEVLGYPFGYGYNDKTT
+****************                                  
+KVEFDAEDSYQSVEFFNKMKNMDEYYNVGEEEDLEEEGYVEPVERISNEY
+                                                  
+YKSTLYD
+       
+>WCJ74797.1 TraR/DksA C4-type zinc finger protein [Clostridium botulinum]
+contains the zinc finger site: CKSCGKHIPKERLEFVPYAEFCVKC
+at locations:
+Start at: 91 End at: 116
+MDKNSLEYFKNKLIREKESVNSLLEEMKNNETIDSNSAISMELSNYDNHP
+                                                  
+ADTGSELFEKEKGLALKENEISIMKKINDALKNIEDGSYGVCKSCGKHIP
+                                         *********
+KERLEFVPYAEFCVKCQNEVSGKNVRKVQRPIEEEVLGYPFGYGYNDKTT
+****************                                  
+KVEFDAEDSYQSVEFFNKMKNMDEYYNVGEEEDLEEEGYVEPVERISNEY
+                                                  
+YKSTLYD
+       
+>KAJ4698321.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4689527.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4688533.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4686716.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4661187.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4655583.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4648453.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4636423.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4634961.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4610797.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4608668.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4607676.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4590636.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4584297.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4581052.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4558926.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4553103.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4530160.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4528774.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4528141.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>KAJ4525216.1 GATA zinc finger protein 3 [Exophiala dermatitidis]
+contains the zinc finger site: CQNCQTSTTPLWRRDEAGSVLCNAC
+at locations:
+Start at: 18 End at: 43
+MAASLTGTDHNLPFSQPVCQNCQTSTTPLWRRDEAGSVLCNACGLFLKLH
+                  *************************       
+GRPRPISLKTDVIKSRNRVKTSNQGPKKKLDQNGLPAHNGLPAAQSDLTT
+                                                  
+PPNGTNAHRRVSQMAASVASDRSHSPISRTGTPGAHHDPNIAPQHLFDGV
+                                                  
+AATTDHHFTNGSPSLPPINQPSPNAASLNNERHPEQPMTYEQLVAANTNL
+                                                  
+RTRVSELEVITMVYSDNENNIRKERDRAIRERDELKRKVEELQMQLKAVN
+                                                  
+DRGQEREREQQQQDQEQKHEQEEQRPTKKPRLSSNEPQG
+                                       
+>WBO16563.1 CGNR zinc finger domain-containing protein [Clostridioides difficile R20291]
+contains the zinc finger site: CKYCGKIYIPTNSKSQYCSPSCRNC
+at locations:
+Start at: 264 End at: 289
+MNKKIELIGNFASDWIRYSDYEYKITEEDELYIVPTEDAVFTMYNPFDVA
+                                                  
+DDIIVDIIRIGQEALQDISKETKEMKLKKEVLEFVKKYGLLGLIYSSVYN
+                                                  
+RDIVGEERVLMIEKNYITKENILSTDEYVNMFIPFASDEDVYFKKYRRGI
+                                                  
+DVSKREESPKFFGKRPLILDLVFSKFYTEQLDWIVSFAKDMCKHFNQICV
+                                                  
+YKNTSNLLTESVTIMSGGFNPQKIGFSISQLDKPIIAWEFDSLKTAIETI
+                                                  
+YAFAITSEPSSLNKCKYCGKIYIPTNSKSQYCSPSCRNCSNVKKSRSRAK
+              *************************           
+KDK
+   
+>DAZ96647.1 TPA: hypothetical protein N0F65_005826 [Lagenidium giganteum]
+contains the zinc finger site: CGRCSRKLPILVGTETTRVRVCLCC
+at locations:
+Start at: 385 End at: 410
+MTKTRTRRSSSFSPVGIPFFKSSSKTASNASHVVMALTPRGSVSSSHYDS
+                                                  
+PVGQTRKDPTGDQPERRSSFCSNSGKSSRRRNSSASWNQPVVEPGLSRAQ
+                                                  
+KQGCFNHIKRRHSIALAFAQNQGTVSLDENMMSHCSDTASTGSIWEYVKT
+                                                  
+KQGVEMYKSKRSRCEVRGVTLINASVKNVMSLLASGETTERFEYAQNILM
+                                                  
+GSDNVLEARVLSSCVPSTASRYFHCALKYMAMKNPFGLSPLDLVFLDYTD
+                                                  
+VSTTPDGKLVGYRIIESIRVPEFGAVSKYIRASIRCEVYIVRETDKSGVV
+                                                  
+EVTFASHLDPKSKYSSSKRSTWLDQTVVRLSNLRSYAEKASFSHRLVLET
+                                                  
+GKLVKGDARRNCLICESSFSFLRKRHNCRLCGEVTCGRCSRKLPILVGTE
+                                   ***************
+TTRVRVCLCCMLESREQPDELGRAEVECPRGRGSLGNSTFIVQLNQRVGV
+**********                                        
+GAVGRPASFGCSIQQRHKVTVPSAAGAVRRSRLKPKLPKAKCVQISALNH
+                                                  
+MPASMLIRTNSKEFLLEVVDAKQQIHLTSPISGLRMYEWNARTRRWEDEV
+                                                  
+FYAIEFGDVRLQWTDHDGAVDQTDAHDIEGLLTRDLMRLCSGVPAF
+                                              
