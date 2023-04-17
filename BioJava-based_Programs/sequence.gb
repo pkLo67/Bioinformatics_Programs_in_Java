@@ -1,0 +1,801 @@
+LOCUS       XM_020057378             804 bp    mRNA    linear   INV 02-FEB-2017
+DEFINITION  Plasmodium coatneyi Zinc-finger partial mRNA.
+ACCESSION   XM_020057378
+VERSION     XM_020057378.1
+DBLINK      BioProject: PRJNA329102
+            BioSample: SAMN04571750
+KEYWORDS    RefSeq.
+SOURCE      Plasmodium coatneyi
+  ORGANISM  Plasmodium coatneyi
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium.
+REFERENCE   1  (bases 1 to 804)
+  AUTHORS   Chien,J.T., Pakala,S.B., Geraldo,J.A., Lapp,S.A., Humphrey,J.C.,
+            Barnwell,J.W., Kissinger,J.C. and Galinski,M.R.
+  TITLE     High-Quality Genome Assembly and Annotation for Plasmodium
+            coatneyi, Generated Using Single-Molecule Real-Time PacBio
+            Technology
+  JOURNAL   Genome Announc 4 (5) (2016)
+   PUBMED   27587810
+  REMARK    Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 804)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-JAN-2017) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   3  (bases 1 to 804)
+  AUTHORS   Chien,J.-T., Pakala,S.B., Geraldo,J.A., Lapp,S.A., Barnwell,J.W.,
+            Kissinger,J.C., Galinski,M.R., DeBarry,J.D. and Humphrey,J.C.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (21-JUN-2016) Institute of Bioinformatics, University of
+            Georgia, 500 D.W. Brooks Drive, Athens, GA 30601, USA
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_033558).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..804
+                     /organism="Plasmodium coatneyi"
+                     /mol_type="mRNA"
+                     /strain="Hackeri"
+                     /db_xref="taxon:208452"
+                     /chromosome="3"
+     gene            <1..>804
+                     /locus_tag="PCOAH_00005670"
+                     /db_xref="GeneID:30907290"
+     CDS             1..804
+                     /locus_tag="PCOAH_00005670"
+                     /note="RAN binding protein; putative"
+                     /codon_start=1
+                     /product="Zinc-finger"
+                     /protein_id="XP_019912861.1"
+                     /db_xref="GeneID:30907290"
+                     /translation="MENRKYIDNELTGDWICSDDKCGIVNSAQRTHCNRCNRVRPKST
+                     MRKNPKQVLFKANDWKCEDCGNINWAKRDKCNICSKVKFPKKGSDPKSNKEVRTGKGG
+                     GHYDIQGSNEKRVHDSDDEEYDEFGRKKKRKIVDKDVKKDKDRDDNDTSRDASGYTNN
+                     KESSYKKDTYRNKQFNDSPSRNSTSNNYQKGGGGGGYYKNYYDRRKEDGDYSARRYDG
+                     SNKHDDRNRYDDRGRHDERKSNYDSGRRHHDRAENDRLADYDRRRYRRD"
+ORIGIN      
+        1 atggaaaatc gaaagtacat tgacaatgaa ctgacggggg actggatatg ctcggacgac
+       61 aagtgcggga ttgtgaactc ggctcaaaga acacactgta accgatgcaa cagagtcagg
+      121 ccaaagagca caatgagaaa aaatccgaag caggtgcttt tcaaagcgaa cgactggaag
+      181 tgtgaagact gcggtaacat caattgggcc aagagagata aatgtaacat ttgtagtaag
+      241 gtaaagttcc caaaaaaggg aagcgaccct aagtcgaata aagaggtacg gactggcaaa
+      301 ggtggaggcc actacgacat tcagggaagt aatgaaaaga gagtccatga ctcggatgac
+      361 gaggagtatg atgagttcgg tcggaagaag aagaggaaga tagtagataa ggatgtcaag
+      421 aaggataagg atagggacga taatgacacg agcagggacg caagtggcta cacaaacaac
+      481 aaagagtcct cctacaaaaa ggacacgtac agaaacaaac agtttaatga ctccccgtcg
+      541 aggaattcca cgtcaaataa ttaccaaaaa ggtggcggcg gaggcggcta ttacaagaat
+      601 tactacgacc ggaggaagga ggacggggat tacagcgccc gtcggtatga tggaagcaac
+      661 aagcatgacg accgaaatag gtatgatgac cgaggcagac atgatgagcg gaaatcgaac
+      721 tatgacagtg gtaggcggca ccacgatagg gcggagaatg acaggctagc cgattacgac
+      781 cgaaggaggt atagacggga ttaa
+//
+
+LOCUS       RDU36562                2218 bp    mRNA    linear   VRL 17-FEB-1996
+DEFINITION  Rice dwarf virus zinc-finger mRNA, complete cds.
+ACCESSION   U36562
+VERSION     U36562.1
+KEYWORDS    .
+SOURCE      Rice dwarf virus
+  ORGANISM  Rice dwarf virus
+            Viruses; Riboviria; Orthornavirae; Duplornaviricota;
+            Resentoviricetes; Reovirales; Sedoreoviridae; Phytoreovirus.
+REFERENCE   1  (bases 1 to 2218)
+  AUTHORS   Zhao,X., Li,Y., Pan,N. and Chen,Z.
+  TITLE     Sequencing and functional analysis of the deduced protein of rice
+            dwarf virus genome segment S4
+  JOURNAL   Chung Hua Wei Sheng Wu Hsueh Ho Mieh I Hsueh Tsa Chin (1996) In
+            press
+REFERENCE   2  (bases 1 to 2218)
+  AUTHORS   Li,Y., Zhao,X., Pan,N. and Chen,Z.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-SEP-1995) Yi Li, College of Life Sciences, Peking
+            University, Haidian, Beijing, Beijing 100871, China
+FEATURES             Location/Qualifiers
+     source          1..2218
+                     /organism="Rice dwarf virus"
+                     /mol_type="mRNA"
+                     /strain="Chinese strain"
+                     /db_xref="taxon:10991"
+                     /note="segment 4"
+     CDS             25..2208
+                     /codon_start=1
+                     /product="zinc-finger"
+                     /protein_id="AAA88761.1"
+                     /translation="MNQSRSFVTGRGRDLSRTPSALSSNSETPGSMSSPSEGKTNAWV
+                     NSAYVSNFPALGQSQGLPSHKCSALALRSSQTTYIINFPRQHWNIMTFPNQSEAILAT
+                     VASYAKDLDGKNSFAVFDTLKMPWSCRLGEKSCSGIDTLGHLADVHMHVLDPAEAEGK
+                     NLSDSETVYVYVTPPNLTDVKPTTIVLTECAANAKSANDLRQYIVTQLRKMPSLPFGC
+                     TTYAPGFLSDGVCKEHPNLFTSEELGAKIKVLTKLLIRCATSMSQDGSNAFCPKHPKV
+                     KIVHESNATSYILFNRPNGMVATNLILSDLPDDDCPTCWILKLAISEARYYALDGHHR
+                     CRSRIITPSVFRYLASIVIRVSMDSVLAPSDASSTDHAALVNMMCGIIQNTPAMRHVG
+                     ISTGSEKVNNRSMRVIIMQENADRATQMSALYHLFLDYFGALNGWGFYFCSLTSLYGE
+                     FHGFSVGFSGEITHVNVASVIAKNWDTQSGIDNILEFKTITIPVHNEDIVCMVERTLA
+                     ESFEVVINEHFNGASTIKVRRNGGDSRFNFTISNPRDAFLLLQKAVVDGGILQKILCR
+                     AMLKAIASLALRADREVQDVSFSFVLKMSLNPVNKSDPKSSELAHAAQMNSLPEFLAS
+                     TPFTMQLGTLRDALLKKTGNVTVINMARTTEEVSNDALQEILKSIGGNSMTLDDPAEP
+                     LSDIESIPDPPPRSWASEDEAVNSPQTYSSRRKARKARAASKLSK"
+ORIGIN      
+        1 ccgattaact acagtgtatt caggatgaac caatctcgaa gctttgttac ggggagagga
+       61 cgcgacttgt ctcggactcc ttcggcttta agctcgaatt cggaaactcc aggatcaatg
+      121 agttcaccat ctgaagggaa gacgaatgct tgggtcaact cggcgtacgt cagcaacttt
+      181 cctgcgttgg gccaatcgca ggggttgcca tcccataaat gttcagcttt ggctctgcgt
+      241 agttcacaga ctacgtacat tatcaacttt ccacgccagc actggaacat catgactttt
+      301 ccaaaccagt ctgaggcaat tctggctact gttgcctcat acgcaaaaga cctcgatgga
+      361 aagaactcct tcgccgtatt tgatacgctt aagatgccat ggtcctgtcg cctaggagaa
+      421 aagagctgtt ccggaataga tactttaggc cacctcgctg atgttcacat gcatgtgttg
+      481 gatccagctg aggcggaagg gaagaatctg tctgattcgg agactgtcta tgtctacgtc
+      541 actccaccca atttgactga tgtgaagcca acgaccattg tgctgactga gtgtgccgct
+      601 aacgctaagt cagcgaatga tctgaggcag tacatcgtca cccaattaag gaagatgcca
+      661 tcccttccat ttgggtgcac tacttatgct ccaggttttc tatccgatgg tgtgtgcaag
+      721 gaacatccta acttgttcac ctctgaggag ctgggcgcca agatcaaggt gctcacgaaa
+      781 ttgctcattc gctgtgccac ttccatgtcg caggacggat ccaacgcgtt ctgtcccaag
+      841 catcccaagg tgaagattgt gcacgaatcg aatgccacat cttacattct gttcaatcgt
+      901 ccaaatggaa tggtggctac gaacctgatt ctctcagatt tgcccgatga tgattgtcca
+      961 acatgctgga tacttaagtt agcgatcagc gaagctaggt attacgctct tgatggtcat
+     1021 caccgctgtc gctctagaat aataacaccc agtgtcttca gatatctcgc ttctatagtt
+     1081 atcagagtaa gcatggattc cgtgctcgcc ccctctgacg catcatcaac tgatcacgcc
+     1141 gccctcgtca acatgatgtg cggcattatt caaaacacac ccgcgatgcg acacgtcggc
+     1201 atatcgacgg gtagtgagaa agtgaataac agaagcatga gagttatcat catgcaggag
+     1261 aatgccgaca gggctacgca gatgtcagct ctgtaccatc tgttcctaga ctactttgga
+     1321 gctctcaatg gttgggggtt ctacttctgc tcactgacgt ctctctatgg tgaattccat
+     1381 ggtttcagcg tcggatttag cggagagata acgcatgtga acgttgcgag cgtgattgct
+     1441 aagaattggg acacgcagtc aggcatcgac aacatccttg aatttaagac tatcactatt
+     1501 cccgtccaca acgaggatat agtgtgcatg gttgagcgca ctttggctga atcattcgaa
+     1561 gtcgtaatca acgaacactt taatggtgct agcactataa aagtacgtag gaatggcgga
+     1621 gactcacgat tcaacttcac catttccaat ccccgtgacg ccttcttact gctgcaaaag
+     1681 gctgtggttg atggaggcat tttgcaaaag atcttgtgca gggctatgct taaggctatt
+     1741 gctagcctag ctctgcgagc tgacagggag gtacaggatg tttccttcag cttcgtattg
+     1801 aagatgagtc tcaatccggt taataagagc gacccgaagt cgtcagaatt ggcgcacgcg
+     1861 gctcagatga attccctacc cgagttcctc gcatcgacgc cctttaccat gcagctgggt
+     1921 actctccgag atgccttgct gaaaaagact ggaaatgtca cggtcatcaa catggcccga
+     1981 acaactgaag aggtgtcgaa tgatgccctt caagaaatac tgaaaagtat cggggggaat
+     2041 tctatgaccc tcgacgaccc agctgagccg ctctcagaca ttgagtcgat tcctgatcct
+     2101 ccacctagat cctgggcctc cgaagatgaa gctgtaaatt cgccacaaac ttacagcagc
+     2161 agaaggaagg ctaggaaggc tagggcagct tctaagctgt caaagtaatt atctgctc
+//
+
+LOCUS       XM_024721707             447 bp    mRNA    linear   PLN 01-OCT-2020
+DEFINITION  Plasmopara halstedii zinc finger (PHALS_08122), partial mRNA.
+ACCESSION   XM_024721707
+VERSION     XM_024721707.1
+DBLINK      BioProject: PRJNA314514
+            BioSample: SAMEA2781508
+KEYWORDS    RefSeq.
+SOURCE      Plasmopara halstedii
+  ORGANISM  Plasmopara halstedii
+            Eukaryota; Sar; Stramenopiles; Oomycota; Peronosporales;
+            Peronosporaceae; Plasmopara.
+REFERENCE   1  (bases 1 to 447)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2
+  AUTHORS   Sharma,Rahul. and Thines,Marco.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2014) IPF, AG Thines, Molecular Evolution and
+            Ecology of PlantPathogens, Georg-Voigt-Stra.e 14-16, D-60325
+            Frankfurt am Main, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_020190059).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..447
+                     /organism="Plasmopara halstedii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:4781"
+                     /chromosome="Unknown"
+                     /note="contig: Scaffold_3156"
+     gene            <1..>447
+                     /locus_tag="PHALS_08122"
+                     /db_xref="GeneID:36403177"
+     CDS             1..447
+                     /locus_tag="PHALS_08122"
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="XP_024586779.1"
+                     /db_xref="GeneID:36403177"
+                     /db_xref="GOA:A0A0P1B8V7"
+                     /db_xref="InterPro:IPR001841"
+                     /db_xref="InterPro:IPR004039"
+                     /db_xref="InterPro:IPR013083"
+                     /db_xref="UniProtKB/TrEMBL:A0A0P1B8V7"
+                     /translation="MSITLKKHKCVERSLESDCPICHAYMFTSTTPVMFLPCGHCMHV
+                     SCYEEYTLTNYICPLCSKSLGDMELYFASIDELLERERMPMEYQDYKSLIYCSDCERK
+                     STTNFHFVYHKCQYENCMSYNTKLLRQFIDSERQVSCGPTAQIQTL"
+ORIGIN      
+        1 atgagcatca cgttgaaaaa gcacaagtgc gtggaacggt ctcttgaatc ggactgccct
+       61 atctgtcacg catacatgtt cacctcgacg acacccgtca tgtttcttcc ttgtggccat
+      121 tgtatgcatg tttcttgcta tgaagagtac actctgacta attacatttg cccgctatgt
+      181 tcgaagtcac tgggagatat ggaactttac tttgctagca ttgatgagct gctcgagcgg
+      241 gaacgaatgc cgatggaata tcaagattac aagtcgctga tctactgtag cgactgcgag
+      301 cgtaaatcta cgaccaattt tcacttcgtt tatcacaagt gccaatatga aaattgtatg
+      361 tcgtacaata cgaagctact gcggcaattt attgattcag agcgtcaagt atcatgcggc
+      421 cccaccgcgc aaattcaaac gctctag
+//
+
+LOCUS       XM_024721310            3894 bp    mRNA    linear   PLN 01-OCT-2020
+DEFINITION  Plasmopara halstedii zinc finger (PHALS_07782), partial mRNA.
+ACCESSION   XM_024721310
+VERSION     XM_024721310.1
+DBLINK      BioProject: PRJNA314514
+            BioSample: SAMEA2781508
+KEYWORDS    RefSeq.
+SOURCE      Plasmopara halstedii
+  ORGANISM  Plasmopara halstedii
+            Eukaryota; Sar; Stramenopiles; Oomycota; Peronosporales;
+            Peronosporaceae; Plasmopara.
+REFERENCE   1  (bases 1 to 3894)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2
+  AUTHORS   Sharma,Rahul. and Thines,Marco.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2014) IPF, AG Thines, Molecular Evolution and
+            Ecology of PlantPathogens, Georg-Voigt-Stra.e 14-16, D-60325
+            Frankfurt am Main, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_020190023).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..3894
+                     /organism="Plasmopara halstedii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:4781"
+                     /chromosome="Unknown"
+                     /note="contig: Scaffold_3120"
+     gene            <1..>3894
+                     /locus_tag="PHALS_07782"
+                     /db_xref="GeneID:36402837"
+     CDS             1..3894
+                     /locus_tag="PHALS_07782"
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="XP_024586422.1"
+                     /db_xref="GeneID:36402837"
+                     /db_xref="GOA:A0A0P1B7D5"
+                     /db_xref="InterPro:IPR000306"
+                     /db_xref="InterPro:IPR001849"
+                     /db_xref="InterPro:IPR011011"
+                     /db_xref="InterPro:IPR011993"
+                     /db_xref="InterPro:IPR013083"
+                     /db_xref="InterPro:IPR017455"
+                     /db_xref="UniProtKB/TrEMBL:A0A0P1B7D5"
+                     /translation="MVEKTPPSSGPSSPTANEATFQLERRKSAEQVRINIEKFVDGLM
+                     SEQYTLAQLLNESFSLEMLELLFKRMTGRLRIILFSREKTLEFIRLALDASYPRHTRA
+                     MAAQFIVAGGAMNVIAVCDPGKPHECAEFWDSIFDMLQREADGVSSKCDTPLRRKERQ
+                     ASVAELEELIQVAVQVFEKDGAQTLEQSFAEHEEENKEKNGLARRRASSARSSLGDFT
+                     TLKTTASPLPSPRTPNKSTSNLHIDTAKEEVTVHTDNAESDHESDSDDLDNTGIPAPL
+                     TTEVNEMAMYGIFSHDSANFASQVLRYFAIRGQKGACILHFLAEHPATVDMLLANVGH
+                     DDIRILLLHLIYAEHSEAAITSLFETHMMQKLIQKQVTFSPPRNAFERDCIENTFMLL
+                     REIIHAPYLTGRGVAISAKTIPLDKVTGQDEYVSICGASRETANSALRKYTSRKVRRL
+                     IHLFMQEHQAALELLFVQMIKELTFWSIPLTRERRGSVASIESLVLLSQGHPRPTCIM
+                     MLMHLFELTETVEFTDTKGTGGSSAASMGIDCLNFLCSTHLMRQGNLLVKKKLKNELQ
+                     RCQVSLNCMMGLRMTALRDGQVSNSASLDQAFTPNLGNQSVITLDEMENVQSSDWHEF
+                     GFSVTIRKKVVANNKTSPTSQRSPTAPANAMVHHQRRNEKDPEGSTIQVKSIEYFAAS
+                     SETEKQAWITLLQAVIDGDLNELEIFCSDDWRSNVREYRRLRECLIMCMERKGHELMV
+                     FLKQVITFNTRKVSGFHLWSVVQCLNAVLSNESKRLDRMFVGAHVITTLITCYEKYPM
+                     RNLLLGEITKMLVFCIGDFKSKRSRKCPIIGRILQTEGPDAKLAPLLCKVYLNRDTDK
+                     SHSGQEDNFLAGTDAISNLKLVMEALKMCYKDPKTRSQERIQCEMKSSPLWRKLVEAS
+                     DDMTEKDPLSCILTTTAPPLSSVDNLSSTTALTPPTFQEDIINQISRPSYSTAHGFGS
+                     SFLEGEGCAFGYLFKERHGGREWKKALVVYEYVSHKLWYFYPSEVDETHTIQWKWIVP
+                     LSVRSRYTHGQDETHTSVGHHGLYITAYDHQQNDEDSKVSAKEMHFSVTKLEDRDLWK
+                     DLLSNAADIVQKLAREYSVLSQKLKKPDKKTITHCQDPNCNTPFKLFRRPHSCKRCGK
+                     WMCAKCTSQRISIPEVGLLHPVRHCRACFEANGGVHAETDPFNLFHLRNVPTTVSSQT
+                     GKLSNAELYELAHGKVSPRTLMQMNRRLTRFLSIDSPTAGENGGSFLVDEINAPGNLG
+                     AENLSVYTDDEEDLFSFTPSLSRRSLLHPREDIRG"
+ORIGIN      
+        1 atggtggaga aaacaccccc gagttcaggc ccgtcgtcgc ctacagccaa cgaggctaca
+       61 tttcagctgg agcgccgaaa gtcagccgaa caggtgcgga tcaatatcga gaagtttgtc
+      121 gatggactta tgagcgaaca gtacacgctt gctcaattgc tcaacgagag cttttcgctc
+      181 gagatgctgg aattgctatt taaacgtatg actggccgtc ttcgaattat cttgttttca
+      241 agagagaaaa cgcttgaatt tattcgtctt gcattggatg caagctatcc aagacataca
+      301 cgtgcaatgg ctgcacaatt tatagttgct ggtggcgcta tgaatgttat tgctgtctgt
+      361 gatccaggca aaccgcacga atgcgccgaa ttttgggact caatttttga tatgctacag
+      421 cgtgaggcag atggcgtctc gtctaagtgt gatacacctc ttcgacgtaa agagcgccaa
+      481 gcatctgtcg ctgaactgga ggagcttatt caagtggctg tacaagtttt cgaaaaagac
+      541 ggagcacaga cattggagca aagttttgca gaacatgaag aagagaataa agaaaaaaat
+      601 ggattggcaa gacgacgggc atcgtctgca aggtcatctc taggagattt taccacgtta
+      661 aagaccacgg cttcaccgtt gccttctcct agaactccaa ataagtcaac gagcaacttg
+      721 catatagata cagcaaaaga agaggtcact gtacacacag acaatgccga gtctgatcac
+      781 gagtccgatt cggatgatct ggataacact ggcattccgg ctccattgac caccgaagtc
+      841 aatgagatgg ccatgtacgg tattttcagc catgactcag ccaattttgc ttcgcaagtc
+      901 ctacgttatt ttgcaattcg tggtcaaaag ggtgcatgta ttttgcactt tttagcagag
+      961 caccccgcaa ctgtggatat gttgctggct aatgttggtc atgacgatat tcgtatcttg
+     1021 ttactgcatc tcatttacgc tgaacactcg gaagcggcca tcacttcgtt atttgaaact
+     1081 cacatgatgc aaaagctgat tcaaaagcaa gtaacatttt cgccaccacg caatgctttt
+     1141 gaacgggact gtatcgaaaa tacttttatg ttattgcggg aaattataca cgcgccgtat
+     1201 ttgactggac gtggtgtagc catttcagcg aaaaccatac cgctagataa agtgactggc
+     1261 caagatgagt atgtatcaat ctgcggagct tcgcgcgaaa ccgccaactc ggctttacgc
+     1321 aagtacactt cgcgtaaagt tcgacgactc attcatttgt ttatgcagga gcatcaagct
+     1381 gcgctcgaat tgctttttgt gcagatgatt aaggagttga ctttctggag tattccgctg
+     1441 acgcgtgagc gacgggggag cgtggcttcg attgaatcgt tggtgctttt gtcacagggg
+     1501 catccacgtc caacgtgcat tatgatgctc atgcatcttt ttgagctgac agaaacagtg
+     1561 gaatttaccg atacaaaagg cactggaggt tcctcagctg catccatggg catcgactgc
+     1621 ttaaattttt tatgctcgac tcacctcatg cgtcagggaa atttgctggt taaaaagaaa
+     1681 ttaaagaatg agctgcaaag atgtcaagta agtttaaatt gtatgatggg acttcgcatg
+     1741 actgcattgc gtgatggtca ggtatcgaat tcagctagtt tagaccaggc ttttacgcca
+     1801 aatttaggca atcaaagtgt tatcacgctg gatgaaatgg aaaatgtgca aagttctgac
+     1861 tggcacgaat ttggctttag tgtgacgata aggaaaaaag tggtcgctaa taacaaaacc
+     1921 tcccctactt cgcaacgctc acccacggcc ccagcaaatg cgatggtaca tcatcaacgt
+     1981 cgaaatgaaa aagatcctga aggttcaacg atacaagtta agtccatcga gtattttgct
+     2041 gcgtcgtcgg aaaccgaaaa acaggcgtgg ataacgctgt tgcaggcagt gattgatggc
+     2101 gatctgaatg aattggaaat attttgtagt gacgattggc gtagcaatgt gcgggagtat
+     2161 cgacgtctac gtgaatgtct gatcatgtgt atggagcgta agggacacga actgatggtg
+     2221 tttttgaaac aagtgatcac atttaacact cgcaaagtgt caggatttca tctctggtcg
+     2281 gttgtacagt gtttaaacgc cgtcttatca aacgagtcga aacgtttgga ccgaatgttt
+     2341 gttggagcac atgtgatcac gactcttatt acgtgctatg aaaagtatcc gatgcgaaat
+     2401 cttctgttgg gtgagattac aaaaatgctt gtgttttgta tcggcgattt taaaagcaag
+     2461 cgctctcgca aatgcccaat tattgggcga atcctgcaaa cggaaggtcc tgacgcgaaa
+     2521 ttagcacctt tactttgcaa agtatacctc aaccgtgaca cggataaaag tcacagtgga
+     2581 caagaggaca atttcttggc tggaacggac gctatttcga atttgaagct cgttatggaa
+     2641 gctttaaaga tgtgttacaa ggacccgaaa acaaggagtc aagaacgtat ccaatgcgaa
+     2701 atgaagtcaa gcccactatg gcgaaagtta gttgaagcat ccgatgacat gactgagaag
+     2761 gaccctttaa gctgcatttt gacgacaacg gccccaccac tctcttctgt agataattta
+     2821 agctcgacga ctgcacttac acctcccaca ttccaggagg atattataaa tcagataagt
+     2881 cgaccaagct actctacagc acacggcttt ggatcatcat ttttggaagg agaaggatgt
+     2941 gcgtttggat atttgttcaa agagcgacat ggcggccgtg agtggaagaa ggcgctcgtt
+     3001 gtgtatgaat atgtttcaca taagttgtgg tatttctacc caagtgaagt ggatgaaaca
+     3061 cacacgattc aatggaagtg gattgtgcct ttatcagtac gaagtcgcta cacacatggt
+     3121 caagacgaga cgcacacgtc tgtaggtcac catggtctct atatcactgc gtacgaccac
+     3181 cagcaaaatg atgaagatag taaagtttca gcaaaggaga tgcatttcag tgtcactaaa
+     3241 ctcgaagatc gagatctgtg gaaagatttg ctgtcgaacg cagccgacat agtacaaaag
+     3301 ctagctcgag agtactcagt gctttcgcag aaactcaaaa agccggacaa gaagacaatt
+     3361 acgcactgtc aagatccaaa ctgcaataca ccatttaagc tctttcgccg tccacattca
+     3421 tgcaaacgtt gcggcaaatg gatgtgcgct aagtgcacat cacaacgtat atcgattcca
+     3481 gaagttggtc tattgcaccc ggttcgtcat tgccgagcgt gtttcgaagc aaatggtggt
+     3541 gtgcatgctg agactgatcc tttcaatctt ttccatcttc gaaacgtgcc tactacagtt
+     3601 tcttcacaaa ctggcaagct ctctaacgca gagctttacg aacttgcaca tggcaaggtc
+     3661 tctcctcgaa cccttatgca aatgaatcgt cggttaacgc gattcttatc aattgactcg
+     3721 cctacagcag gcgaaaatgg tggtagtttc cttgtagacg aaatcaatgc gccaggaaac
+     3781 ctcggcgctg agaatttatc ggtgtataca gatgatgaag aagatttgtt ctccttcact
+     3841 ccatctttgt cacgtcgaag cctactacat cctcgagaag acattcgcgg gtag
+//
+
+LOCUS       XM_024722222             510 bp    mRNA    linear   PLN 01-OCT-2020
+DEFINITION  Plasmopara halstedii zinc finger (PHALS_04201), partial mRNA.
+ACCESSION   XM_024722222
+VERSION     XM_024722222.1
+DBLINK      BioProject: PRJNA314514
+            BioSample: SAMEA2781508
+KEYWORDS    RefSeq.
+SOURCE      Plasmopara halstedii
+  ORGANISM  Plasmopara halstedii
+            Eukaryota; Sar; Stramenopiles; Oomycota; Peronosporales;
+            Peronosporaceae; Plasmopara.
+REFERENCE   1  (bases 1 to 510)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2
+  AUTHORS   Sharma,Rahul. and Thines,Marco.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2014) IPF, AG Thines, Molecular Evolution and
+            Ecology of PlantPathogens, Georg-Voigt-Stra.e 14-16, D-60325
+            Frankfurt am Main, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_020187174).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..510
+                     /organism="Plasmopara halstedii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:4781"
+                     /chromosome="Unknown"
+                     /note="contig: Scaffold_253"
+     gene            <1..>510
+                     /locus_tag="PHALS_04201"
+                     /db_xref="GeneID:36399256"
+     CDS             1..510
+                     /locus_tag="PHALS_04201"
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="XP_024573321.1"
+                     /db_xref="GeneID:36399256"
+                     /db_xref="GOA:A0A0P1A8C7"
+                     /db_xref="InterPro:IPR007853"
+                     /db_xref="InterPro:IPR024158"
+                     /db_xref="UniProtKB/TrEMBL:A0A0P1A8C7"
+                     /translation="MWCRLLVRCRPAAHSSRVLLQSLSSQTPCLACTANSSSYVLRSA
+                     SISSTHHCFSTQRDDSPVTEATTISSVPGVESPGDKFVMVYTCSVCETRSAKTISKHA
+                     YYKGVVLVRCPGCENLHLIADRLGWFEDDATDVESLLKQKGKRVRFITEKDVLELTEN
+                     DILGTKNEN"
+ORIGIN      
+        1 atgtggtgtc gacttcttgt gagatgcaga ccagcagctc attcatcacg agtcttactt
+       61 cagtcactat cgtcccaaac accttgtctc gcatgcacag ccaattccag ttcgtatgta
+      121 ttgcgctcgg caagcatctc gtccacacac cactgctttt ccactcaaag agacgattca
+      181 ccagtgactg aggcaactac aatttccagt gttccaggtg ttgaaagccc aggtgataaa
+      241 tttgtcatgg tttacacatg tagcgtatgc gagacgcggt cagccaagac tatcagtaaa
+      301 catgcttact acaagggtgt tgtattggta cgttgccctg gctgcgaaaa tctacatctc
+      361 attgccgatc gattgggctg gtttgaggat gatgcgacgg atgtagagag tttactgaag
+      421 caaaaaggta aaagagttcg cttcattacg gaaaaagatg tgctcgagct cacagaaaac
+      481 gacattcttg gaaccaaaaa cgagaattag
+//
+
+LOCUS       XM_024720568            1134 bp    mRNA    linear   PLN 01-OCT-2020
+DEFINITION  Plasmopara halstedii zinc finger (PHALS_02516), partial mRNA.
+ACCESSION   XM_024720568
+VERSION     XM_024720568.1
+DBLINK      BioProject: PRJNA314514
+            BioSample: SAMEA2781508
+KEYWORDS    RefSeq.
+SOURCE      Plasmopara halstedii
+  ORGANISM  Plasmopara halstedii
+            Eukaryota; Sar; Stramenopiles; Oomycota; Peronosporales;
+            Peronosporaceae; Plasmopara.
+REFERENCE   1  (bases 1 to 1134)
+  CONSRTM   NCBI Genome Project
+  TITLE     Direct Submission
+  JOURNAL   Submitted (30-SEP-2020) National Center for Biotechnology
+            Information, NIH, Bethesda, MD 20894, USA
+REFERENCE   2
+  AUTHORS   Sharma,Rahul. and Thines,Marco.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-SEP-2014) IPF, AG Thines, Molecular Evolution and
+            Ecology of PlantPathogens, Georg-Voigt-Stra.e 14-16, D-60325
+            Frankfurt am Main, Germany
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NW_020187123).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..1134
+                     /organism="Plasmopara halstedii"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:4781"
+                     /chromosome="Unknown"
+                     /note="contig: Scaffold_202"
+     gene            <1..>1134
+                     /locus_tag="PHALS_02516"
+                     /db_xref="GeneID:36397571"
+     CDS             1..1134
+                     /locus_tag="PHALS_02516"
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="XP_024572785.1"
+                     /db_xref="GeneID:36397571"
+                     /db_xref="GOA:A0A0P1A7F1"
+                     /db_xref="InterPro:IPR000571"
+                     /db_xref="InterPro:IPR032378"
+                     /db_xref="UniProtKB/TrEMBL:A0A0P1A7F1"
+                     /translation="MPPKKKAGGPSKKSIEKQKEKTLEDKTFGLKNKKKSKNVQKYIQ
+                     EVTKQVKGGNTRADRIKEQEAKKKKDAMAEQETLKSLFAASIQQPKVPPGTDPKSLLC
+                     AFFKAGVCSKGNRCKFSHDMMVEKKAAKIDLYTDNRAEKEADQIDTWDQEKLEKVVNE
+                     KHHEKNSKQTEIVCKHFLDAIEKSLYGWFWVCPNGGASCKYRHALPPGYVFKSKKDRE
+                     LEKNNKVIEISIEEIIEQQRAKLGPNGGTPVTEETLAKWKADKQARKKAEEAKKLKEQ
+                     AKRTGGRGISTFVSISFALINLNALTILSKCVAVSGRALFTYDPTLFRDDADADDEVH
+                     FVHSDEEDNSELKDFTPTVDMAAAVMDKSLYLQEVDDLDSLKQ"
+ORIGIN      
+        1 atgcccccga agaaaaaggc aggaggtcct tccaaaaagt caatcgagaa gcagaaggaa
+       61 aagactttag aagacaagac ttttggcctc aagaacaaaa agaagagcaa gaatgtgcag
+      121 aaatatatcc aggaagtgac aaaacaggtc aagggtggca acacacgcgc cgatcgcatt
+      181 aaagagcagg aggccaaaaa gaagaaggac gctatggccg agcaggaaac ccttaaaagt
+      241 ctttttgctg cctcgataca gcagccaaag gttcctcctg gaacagatcc caagtcgttg
+      301 ctttgcgctt tttttaaagc tggtgtttgc tctaaaggca accgttgcaa gttctcacat
+      361 gacatgatgg tggagaaaaa agcagctaaa attgatttgt acacggacaa tcgtgctgag
+      421 aaagaagcag atcaaatcga cacgtgggat caggaaaagc tcgagaaagt tgtgaacgag
+      481 aagcatcatg agaagaactc aaagcagaca gaaattgtat gtaagcactt cttggatgct
+      541 attgagaagt cgctctacgg ctggttctgg gtttgcccga atggtggcgc gtcatgcaaa
+      601 taccgtcatg cacttcctcc tggttatgta tttaagtcta aaaaggaccg tgagctcgag
+      661 aaaaataaca aagtcataga gatttcaata gaagaaataa ttgagcaaca gcgcgcaaag
+      721 ttaggcccca atggcggcac tcctgtcacg gaggaaacac ttgcgaaatg gaaggccgac
+      781 aagcaggctc gcaagaaagc agaggaggcg aagaaattga aagagcaggc aaaaagaact
+      841 ggtggtcgtg gcatcagtac gtttgtatca atttcatttg ctttaataaa tctaaatgcc
+      901 ttaacaattt tatcgaaatg tgttgcagtg agtggtcgtg cgctgttcac atacgatcca
+      961 acactgttcc gtgacgatgc tgatgctgat gacgaagttc atttcgttca cagtgacgag
+     1021 gaagacaaca gtgagttaaa agacttcaca ccaaccgttg acatggcagc agcagtgatg
+     1081 gacaaaagtc tgtatttgca agaagtggac gatcttgact cattaaaaca gtga
+//
+
+LOCUS       FJ600286                 873 bp    mRNA    linear   HTC 24-JUL-2016
+DEFINITION  Karlodinium veneficum clone Kve_cDNA87 zinc finger mRNA, partial
+            cds.
+ACCESSION   FJ600286
+VERSION     FJ600286.1
+KEYWORDS    HTC.
+SOURCE      Karlodinium veneficum
+  ORGANISM  Karlodinium veneficum
+            Eukaryota; Sar; Alveolata; Dinophyceae; Gymnodiniales; Kareniaceae;
+            Karlodinium.
+REFERENCE   1  (bases 1 to 873)
+  AUTHORS   Lin,S. and Zhang,H.
+  TITLE     Dinoflagellate meta-transcriptomics enabled by spliced leader
+  JOURNAL   (in) ? (Ed.);
+            PROCEEDINGS OF 13TH INTERNATIONAL CONFERENCE ON HARMFUL ALGAE:
+            166-170;
+            International Society For The Study of Harmful Algae, Hong Kong,
+            China (2010)
+REFERENCE   2  (bases 1 to 873)
+  AUTHORS   Zhang,H. and Lin,S.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (29-DEC-2008) Dept. of Marine Sciences, University of
+            Connecticut, 1080 Shennecossett Rd, Groton, CT 06340, USA
+FEATURES             Location/Qualifiers
+     source          1..873
+                     /organism="Karlodinium veneficum"
+                     /mol_type="mRNA"
+                     /strain="CCMP1975"
+                     /db_xref="taxon:407301"
+                     /clone="Kve_cDNA87"
+     CDS             <1..823
+                     /codon_start=2
+                     /product="zinc finger"
+                     /protein_id="ACU45293.1"
+                     /translation="VAKLSIVGIAVQALRMHMIPSTSQGLSASSRYMFNTFAIISYQV
+                     CFVRSSRGEVFIDDLAGKDGGCVFGRWTPCGKSFKSLFAILWDLDLGLVLISNSLEHL
+                     DLMAFAFQGYWVPQILHNARQGSKNAFHNNFIAGISVTRCLEIVYFWGCPSGVFSGDL
+                     YPRLPGFPNPRLCAAVVLLQGAQVGLMASQKVLGPRWFIPWICLPNVYNYSRRTVEVP
+                     PDAECVICMAELAAEESQLRAFTPCGHCFHRRCLEQWMDIKMECPTCRTALPPLT"
+ORIGIN      
+        1 cgtcgccaag ttatcgatcg tcggaatcgc cgtccaggca ttgaggatgc atatgattcc
+       61 ttctacatct caaggcttga gcgcttcctc gcgatacatg tttaacacct tcgcaattat
+      121 ttcttatcaa gtttgttttg ttcgctcttc tcgaggtgag gtatttattg acgatttggc
+      181 cggcaaagac ggcggatgtg ttttcggcag atggacaccg tgcggcaaga gtttcaaaag
+      241 tttattcgcg attctatggg atcttgatct gggtcttgta ttgatctcca actctttgga
+      301 acacctcgat cttatggcat tcgctttcca ggggtattgg gtgcctcaaa tattgcataa
+      361 tgcgcggcaa ggctccaaga atgccttcca caacaatttc atagctggga tctcggtcac
+      421 ccgttgcctc gagatcgtct acttctgggg ttgcccctca ggggttttca gcggcgatct
+      481 ctatccacgc ctgcctggtt ttcctaaccc gcgactttgt gctgctgtgg tcttgttgca
+      541 aggagcccag gtgggcttga tggcatcgca aaaagtattg ggacctcgat ggttcatacc
+      601 ttggatatgt ttgcccaacg tgtacaatta cagccggcgg actgtagagg tccctccgga
+      661 tgcagagtgc gttatctgca tggcagaact cgctgcagag gagtcgcaat tgcgagcttt
+      721 cactccttgc ggacattgtt ttcatcgccg ttgcctcgaa cagtggatgg acatcaaaat
+      781 ggaatgtccg acttgccgta cggcattgcc accactgact tgatgcgatg gagcgcaagc
+      841 aaaacaaaaa aaaaaaaaaa aaaaaaaaaa aaa
+//
+
+LOCUS       XM_004223883             912 bp    mRNA    linear   INV 10-MAR-2013
+DEFINITION  Plasmodium cynomolgi strain B zinc finger (PCYB_125500) mRNA,
+            complete cds.
+ACCESSION   XM_004223883
+VERSION     XM_004223883.1
+KEYWORDS    RefSeq.
+SOURCE      Plasmodium cynomolgi strain B
+  ORGANISM  Plasmodium cynomolgi strain B
+            Eukaryota; Sar; Alveolata; Apicomplexa; Aconoidasida; Haemosporida;
+            Plasmodiidae; Plasmodium; Plasmodium (Plasmodium).
+REFERENCE   1
+  AUTHORS   Tachibana,S., Sullivan,S.A., Kawai,S., Nakamura,S., Kim,H.R.,
+            Goto,N., Arisue,N., Palacpac,N.M., Honma,H., Yagi,M., Tougan,T.,
+            Katakai,Y., Kaneko,O., Mita,T., Kita,K., Yasutomi,Y., Sutton,P.L.,
+            Shakhbatyan,R., Horii,T., Yasunaga,T., Barnwell,J.W.,
+            Escalante,A.A., Carlton,J.M. and Tanabe,K.
+  TITLE     Plasmodium cynomolgi genome sequences provide insight into
+            Plasmodium vivax and the monkey malaria clade
+  JOURNAL   Nat. Genet. 44 (9), 1051-1055 (2012)
+   PUBMED   22863735
+  REMARK    DOI:10.1038/ng.2375
+REFERENCE   2  (bases 1 to 912)
+  AUTHORS   Tanabe,K., Tachibana,S., Goto,N., Nakamura,S. and Yasunaga,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (14-MAR-2012) Contact:Naohisa Goto Osaka University,
+            Research Institute for Microbial Diseases; 3-1 Yamadaoka, Suita,
+            Osaka 565-0871, Japan
+COMMENT     PROVISIONAL REFSEQ: This record has not yet been subject to final
+            NCBI review. This record is derived from an annotated genomic
+            sequence (NC_020405).
+            COMPLETENESS: incomplete on both ends.
+FEATURES             Location/Qualifiers
+     source          1..912
+                     /organism="Plasmodium cynomolgi strain B"
+                     /mol_type="mRNA"
+                     /strain="B"
+                     /db_xref="taxon:1120755"
+                     /chromosome="12"
+                     /note="synonym: Plasmodium cynomolgi B"
+     gene            <1..>912
+                     /locus_tag="PCYB_125500"
+                     /db_xref="GeneID:14694357"
+     CDS             1..912
+                     /locus_tag="PCYB_125500"
+                     /inference="ab initio prediction:MAKER:2"
+                     /note="putative"
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="XP_004223931.1"
+                     /db_xref="GeneID:14694357"
+                     /translation="MGHYTENDFYLNKSASPMGDAENNENDKKCLWVPDEEVTNCYSC
+                     NAFFNVRIKISEYSYAEKVRVCDRCFMERSSPQTLLLQEDLGARKQINQDLKKALSEK
+                     MAIVERFKTFLLEFDSEILNNSDHADGSNDVMSLLKRGEKGLKDLNDKIRNYDSIIEN
+                     QKKELEQLKREKEQKTELNKILHLRNYEIQQKNMNIKNLVKEKNELTLVKEESEGIIH
+                     SYKKQVEKLIIRCNQLELEKKRKNYTDQSSNYSFTNSSSQSYMMNSYRFPQNEMSVSY
+                     TVAQGPSDDPEDENCCNYCQRRVCSIM"
+ORIGIN      
+        1 atgggccatt acacagaaaa cgatttttac ctgaacaagt cagcatctcc catgggggat
+       61 gcagaaaata atgaaaatga caaaaaatgt ttatgggtcc ctgatgagga ggtaacaaat
+      121 tgctacagct gcaatgcctt ttttaatgta aggataaaaa ttagcgaata cagctatgca
+      181 gaaaaagttc gagtatgtga taggtgtttt atggaaaggt cttctcccca aacgttgctg
+      241 ctgcaagaag atttaggagc gaggaaacaa ataaatcaag atttgaagaa agcgctaagt
+      301 gaaaaaatgg ccatagtaga gagatttaaa actttcttac tcgaatttga cagcgaaatt
+      361 ttaaataaca gtgaccatgc agacggctcg aatgatgtca tgtccttgtt gaagagggga
+      421 gaaaagggat tgaaagactt gaatgacaaa ataaggaact atgactccat tattgaaaat
+      481 cagaaaaagg aattagaaca gctaaaaagg gaaaaggaac aaaaaacaga acttaacaaa
+      541 attttgcact taagaaatta tgagattcaa cagaaaaata tgaacattaa aaatcttgtt
+      601 aaggaaaaaa acgaactaac tttagtgaag gaagaatcag aaggcattat ccattcgtat
+      661 aaaaaacagg tggaaaaact aattataagg tgtaaccaac ttgaattaga gaaaaagagg
+      721 aaaaactaca cagaccagtc cagcaattat tcctttacca atagcagctc tcagtcctac
+      781 atgatgaatt cctataggtt tcctcagaac gagatgagcg tatcgtacac agttgcgcag
+      841 gggccctcgg atgacccgga ggacgaaaac tgctgcaact actgccagag gagggtttgc
+      901 tcgattatgt ga
+//
+
+LOCUS       HUMZIFIA                1189 bp    mRNA    linear   PRI 17-MAY-1994
+DEFINITION  Homo sapiens zinc finger protein mRNA, 3' end.
+ACCESSION   L32164
+VERSION     L32164.1
+KEYWORDS    zinc finger protein.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 1189)
+  AUTHORS   Lania,L.
+  TITLE     Positional cloning of cDNAs from the human chromosome 3p21-22
+            region identifies a clustered organization of ZNF genes
+  JOURNAL   Unpublished
+COMMENT     Original source text: Homo sapiens cDNA to mRNA.
+FEATURES             Location/Qualifiers
+     source          1..1189
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /map="3p21-22"
+     CDS             <1..618
+                     /codon_start=1
+                     /product="Zinc finger"
+                     /protein_id="AAA36818.1"
+                     /translation="GSKCLIRHQSLHTGEKPYKCSECGKAFNQNSQLIEHERIHTGEK
+                     PFECSECGKAFGLSKCLIRHQRLHTGEKPYKCNECGKSFNQTHTYYHQRIHTGEKPYE
+                     CNECGKVFSYSSSLMVHQRTHTGEKPYKCNDCGKAFSDSSQLIVHQRVHTGEKPYECS
+                     ECGKAFSQRSTFNHHQRTHTGEKVLSAALVSFLRYGSLETESKDL"
+ORIGIN      
+        1 gggagtaaat gtcttattcg acatcagagc ctccatactg gggaaaagcc atacaaatgt
+       61 agtgaatgtg ggaaagcctt caatcagaac tctcaactca ttgagcatga gcgaattcat
+      121 actggagaaa aaccttttga atgtagcgag tgtggtaagg catttggtct gagtaaatgt
+      181 cttattcggc accagagact tcacacgggt gaaaagccct ataaatgcaa tgagtgtgga
+      241 aaatccttca atcaaactca cacttattat caccagagaa ttcacactgg tgagaaaccc
+      301 tatgaatgta atgagtgtgg gaaggtattc agttatagct ccagccttat ggtacatcag
+      361 agaacccata ctggggaaaa accctataaa tgcaatgatt gtgggaaagc ttttagtgac
+      421 agctcacagc ttattgtaca ccagagagtc cacaccggag agaaacctta tgaatgtagt
+      481 gaatgtggga aagcctttag tcagcgttcc acttttaatc accaccagcg aactcacact
+      541 ggagagaagg tcctcagtgc tgcgttggtc agtttcttaa ggtatggttc tctagagaca
+      601 gagagcaagg acctttgagt taagctgtct ttataagcag gatgctcata gtggaaaccc
+      661 ggagccagta gacacggtgg accattccct acttcctttt ccttggatca ctaaggtggg
+      721 agagtagtag tagcttattc cagttcttac ccattattag gaaggtaagg actacacatg
+      781 tcattgaatt gtaggtttcc tttttttttc tttactttta aattttaact tttaaaatct
+      841 atttcatttc ttagttatgc atctcataat cagactccat gctttttaaa gacagagata
+      901 atatcttctc tattctattc tacttcctcc atttcaccat ttatacaaag tcattcaaaa
+      961 aggctgattc atgccttcct gcctcttggc tatggccctc cccatctact ctttaaactt
+     1021 taatctataa cttttcatca gttttgttcc ctatctagaa aacattttct tctgtttgct
+     1081 aatctttgtc cctcacaatt tttgaaatcc atctcatcac tgaaatactt tcttcttcaa
+     1141 gtactttttt atttttcttc aacttctctt gatttgacct cagtgcttt
+//
+
+LOCUS       X71623                  2416 bp    mRNA    linear   PRI 18-APR-2005
+DEFINITION  H.sapiens ZNF74-1 mRNA.
+ACCESSION   X71623
+VERSION     X71623.1
+KEYWORDS    transcription factor; zinc finger gene.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1
+  AUTHORS   Aubry,M., Demczuk,S., Desmaze,C., Aikem,M., Aurias,A., Julien,J.P.
+            and Rouleau,G.A.
+  TITLE     Isolation of a zinc finger gene consistently deleted in DiGeorge
+            syndrome
+  JOURNAL   Hum. Mol. Genet. 2 (10), 1583-1587 (1993)
+   PUBMED   8268910
+REFERENCE   2
+  AUTHORS   Ravassard,P., Cote,F., Grondin,B., Bazinet,M., Mallet,J. and
+            Aubry,M.
+  TITLE     ZNF74, a gene deleted in DiGeorge syndrome, is expressed in human
+            neural crest-derived tissues and foregut endoderm epithelia
+  JOURNAL   Genomics 62 (1), 82-85 (1999)
+   PUBMED   10585771
+REFERENCE   3
+  AUTHORS   Aubry,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (26-APR-1993) M. Aubry, Centre for Research in
+            Neuroscience, Montreal General Hospital, McGill University, 1650
+            Cedar Avenue, Montreal PQ H3G 1A4, CANADA
+  REMARK    revised by [3]   MAT
+REFERENCE   4  (bases 1 to 2416)
+  AUTHORS   Aubry,M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (01-NOV-1995) M. Aubry, Centre for Research in
+            Neuroscience, Montreal General Hospital, McGill University, 1650
+            Cedar Avenue, Montreal PQ H3G 1A4, CANADA
+COMMENT     On Nov 2, 1995 this sequence version replaced gi:406245.
+            Related sequnence: X63182.
+FEATURES             Location/Qualifiers
+     source          1..2416
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /map="q11.2"
+                     /clone="ZNF74-1 cDNA"
+                     /tissue_type="brain"
+                     /clone_lib="human fetal brain cDNA library from
+                     Stratagene"
+                     /dev_stage="23 weeks embryo"
+     CDS             163..1881
+                     /codon_start=1
+                     /product="zinc finger"
+                     /protein_id="CAA50632.1"
+                     /db_xref="GDB:128846"
+                     /db_xref="GOA:Q16587"
+                     /db_xref="HGNC:HGNC:13144"
+                     /db_xref="InterPro:IPR001909"
+                     /db_xref="InterPro:IPR007087"
+                     /db_xref="InterPro:IPR013087"
+                     /db_xref="InterPro:IPR015880"
+                     /db_xref="UniProtKB/Swiss-Prot:Q16587"
+                     /translation="MLENYQNLLALGPPLHKPDVISHLERGEEPWSMQREVPRGPCPE
+                     WELKAVPSQQQGICKEEPAQEPIMERPLGGAQAWGRQAGALQRSQAAPGRRTCHGLGR
+                     PVEEFPLRCPLFAQQRVPEGGPLLDTRKNVQATEGRTKAPARLCAGENASTPSEPEKF
+                     PQVRRQRGAGAGEGEFVCGECGKAFRQSSSLTLHRRWHSREKAYKCDECGKAFTWSTN
+                     LLEHRRIHTGEKPFFCGECGKAFSCHSSLNVHQRIHTGERPYKCSACEKAFSCSSLLS
+                     MHLRVHTGEKPYRCGECGKAFNQRTHLTRHHRIHTGEKPYQCGSCGKAFTCHSSLTVH
+                     EKIHSGDKPFKCSDCEKAFNSRSRLTLHQRTHTGEKPFKCADCGKGFSCHAYLLVHRR
+                     IHSGEKPFKCNECGKAFSSHAYLIVHRRIHTGEKPFDCSQCWKAFSCHSSLIMHQRIH
+                     TGEKPYKCSECGRAFSQNHCLIKHQKIHSGEKSFKCEKCGEMFNWSSHLTEHQRLHSE
+                     GKPLAIQFNKHLLSTYYVPGSLLGAGDAGLRDVDPIDALDVAKLLCVVPPRAGRNFSL
+                     GSKPRN"
+     misc_feature    694..1695
+                     /product="zinc finger"
+ORIGIN      
+        1 cctgctcttt ccctgaaaga gaatctcgag gatatatcgg gttggggtct tcccgaagcc
+       61 aggtccaagg aatcggtgag tttcaaggat gtggctgtgg acttcaccca ggaggagtgg
+      121 ggtcaactag actcccctca gagggccttg taccgggatg tgatgttgga gaactaccag
+      181 aaccttcttg ccctaggacc tccactgcac aagccagatg tgatctctca tctggaacga
+      241 ggcgaggagc catggagcat gcagagggaa gtccccagag ggccctgtcc agaatgggag
+      301 ctgaaggcgg tgccctctca acagcagggc atttgcaaag aagaaccggc ccaggagccc
+      361 atcatggagc ggcccctcgg cggggcgcag gcgtgggggc gccaggcagg tgctctgcag
+      421 aggagtcagg ctgcgcctgg gcgccgcacc tgccatggtc tgggacgtcc tgtagaggaa
+      481 ttccccctca ggtgtcccct cttcgcccag caacgcgttc ccgagggggg acccttgctg
+      541 gacacacgca agaacgtcca ggccactgag ggcagaacca aggcccccgc gagactgtgt
+      601 gcaggggaaa acgcctccac gccaagtgag ccagaaaagt tcccccaggt gcgccggcag
+      661 cgcggggcgg gcgccgggga gggcgagttc gtgtgcggcg agtgcgggaa ggcgttccgc
+      721 cagagctcct ccctcacgct gcaccggcgc tggcacagcc gggagaaggc ttacaagtgc
+      781 gatgaatgcg gcaaggcctt cacctggagc accaaccttc tggagcaccg gcgcatccac
+      841 accggcgaga agcccttctt ctgcggcgag tgcgggaagg ccttcagctg ccactcgtcc
+      901 ctcaacgtgc accagcgcat ccacacgggc gagcggccct acaagtgcag cgcctgcgag
+      961 aaggccttca gctgcagctc gctgctcagc atgcacctgc gggtgcacac cggcgagaag
+     1021 ccctaccggt gcggcgagtg cggcaaggcc ttcaaccagc gtacacacct cacacgccac
+     1081 caccgcatcc acacgggcga gaagccctac cagtgcggct cctgcggcaa ggccttcacc
+     1141 tgccactcat ccctcaccgt gcatgagaag atccacagcg gggacaagcc gttcaagtgc
+     1201 agcgactgcg agaaggcctt caacagccgc tcgcgcctca ccctccacca gaggacgcac
+     1261 acgggcgaga agcccttcaa gtgcgccgac tgcgggaagg gcttcagctg ccacgcgtac
+     1321 ctgctcgtgc accggcgcat ccacagcggc gagaagccct tcaagtgcaa cgagtgcggc
+     1381 aaagccttca gctcccacgc ctacctcatc gtgcaccggc gcatccacac aggcgagaag
+     1441 cccttcgact gcagccagtg ttggaaggcc ttcagctgcc actcgtccct catcatgcac
+     1501 cagcgcatcc acaccggtga gaagccctac aagtgcagcg agtgcggcag agccttcagc
+     1561 cagaaccact gtctcattaa acatcagaaa atccactccg gggagaagtc gtttaagtgt
+     1621 gagaaatgtg gggagatgtt caactggagc tcgcacctca ctgagcacca gaggctgcac
+     1681 agcgagggga agcccttggc catccagttc aacaaacacc tgctcagcac atactacgtg
+     1741 cctggcagcc tgctgggtgc aggggatgct ggactgaggg acgtggatcc catcgacgcg
+     1801 ctggatgtgg caaagctctt gtgcgtggtt ccccccagag ctggcaggaa tttctccctg
+     1861 gggagcaaac ctcgaaacta acatgatgtg ctttggtgtc agtagctgct ttctgagcta
+     1921 ctcaacaagg aaagcaccct ggtcctccct ggctcctaga tccagaccac cttcctccag
+     1981 gtgtgggagc cttgccttat caccccaatc aggtctgcat gccagggtgc ctcctctagt
+     2041 taaagtcagt cacctcccca gaagggccac actccaggag gagtgttgag agtcatttga
+     2101 ggtagtcttg ccacctgttt tccttgatgg gcctggaagt tgttgacaag gggaaagatc
+     2161 tttcttgcca ataaaaagaa gggatatcgt tgggtgccat ggctcacacc tgtaatctta
+     2221 acactgtggg aggccaaggc aaggggatca cttgagccca ggagtctagg accagcctgg
+     2281 acaacatggt gagacctcgt ctctacaaaa aatgcaaaaa ttagccagat gtggcggcat
+     2341 gtccctgtgg tcccagctac tcaggaggct gaggtgggag gatcatttga gcctaggagg
+     2401 tcaaggctgc agtgag
+//
+
