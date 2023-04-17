@@ -1,0 +1,302 @@
+>MW122470.1 Hippocampus erectus clone EVM0014616_IL17F interleukin mRNA, complete cds
+ATGCTTTCCATGCCAAACGCCGCCGTTGCCACGGTAGCGATTACGACGAT
+                                                  
+GGTGGCGTTGCTGTCCGGGGGCACTGCCGGCGCGGGGGCAGACGGCCGAT
+                                           ****   
+CCGAAGGCCGGGCGGCGCTCGGCAAGTCCTGGATGGCGGAGACACATATG
+     ****                                         
+GTGTCCCTCGAGCTCAACCCCGACATCTTGCGTCCCCCCGAAACCTTCCG
+                                                 *
+GCCGCTGCAGAACCACTCCATCTCACCCTGGACCTACAACGTGTCGCAGG
+***                                               
+ACGCGTGGGTGTTACCGCCGGTGTCGGAGGCCCGCTGCCTGCTGCGCGGC
+                            ****                  
+TGCCTGGACTCCAACGGCGCGGAGGACCTGAGGCTCAGGTCGCGGCCCAT
+                                           ****   
+CCTGCATCAGGTTCTGCTGCTGCGCCGCCTCAAGTCGCCCGCCGGCGCCC
+                                                  
+CGCGCCAGAGGCAGCACTACCGCTTGGAGCCCCGCCTCGTCGCCGTCGGC
+                                                  
+TGCACGTGCGTCAGGGATCAGCAGCCCCGGCGGCCGCCGCGGCTCTGA
+                               ****             
+>MW122469.1 Hippocampus erectus clone EVM0009956_IL17D interleukin mRNA, complete cds
+ATGCCCCCCGGGCTCCGCGTCCTGATTCCGGCGGCGGCCGCGCTCCTGCT
+                                   ****           
+CCTCGCCGGCGGCGCCGCCGCCGCGGTGGGTGGCCGCGCGAGGAAGAAGG
+                               ****               
+TGGCCCGGACCCGCTCTTGCCTGGACCTTCCCGAGGAGATCCTGGAGCAG
+ ****                                             
+ATGTTCGGTCGCCTCTCGGTCGGCGTGCTGAGCGCCTTCCACCACGCCCT
+                                                  
+GCAGCTGGAGCCCCGAGACAGGGTCAACCTGAGCTGCCCCAGCGCCGCCT
+                                                  
+CCGCGCGCTCGTGGTCGGCTGACAGCAAGAGCAAACTCCCGGTCAACCTG
+                                                  
+CTCAGTGTCTCCCCCTGGGCCTACAGGATCTCGTACGACCCGAGCCGATA
+                 ****                             
+CCCTCGTCACATCCCGGAGGCGTACTGCCTGTGTAACGGTTGCCTGACGG
+                                                  
+GACCTCAGCGACAGGAGACCCGACAATATCGCAGCACACCTGTCTACGCG
+                                                  
+CCCTCCGTGGTCCTCAGGAGGTCCGGTTCTTGTGTCGGAGGCCGGCACTC
+                                       ****       
+GTACTCGGAGGTGTACGTGTCCATCGCGGTGGGCTGCACTTGCGTCCCCC
+                                                  
+TGCTGCACAAGGACCGGGCCCTCCAGAACGCCACCCGGACTCTGGACTCT
+                ****                              
+TGGAAGACGGCCAAGACCAAAGCGGCACGCTCATGGGGATGA
+        ****                              
+>MW122468.1 Hippocampus erectus clone EVM0009957_IL17C interleukin mRNA, complete cds
+ATGGGCGGACTGACTCAGTTGATGGCCATAGTGGTCCTCATGGTGGGGCC
+                       ****                   ****
+CGCGTGGACGTCCAACCTCAACCGCTGCTACGAGGAGCAGGAGCTGAGCA
+                                                  
+AGGTGGCCCACAGGAAGCTGGCGAGTCACTACCCGCAGCCTCCGGAGCCT
+    ****                                          
+CGGGGGGCGGTGGCCCACGACTCCCCCTTCACGTGCCCCCTGGACCTCTT
+           ****                                   
+CATGCCTTGGGACCTGGAGCAGAGGTCCCTGTCTCCCTGGAGATATGTAT
+                                                  
+GGAAACCCATGAAGGACCACTACCCGTCCACTTACGTTGAAGCTCAGTGT
+                                                  
+CTGTGCTCCGGGTGCATCATGATCAAGAACCAAGGGACCCCCGAGCTGAG
+                                                  
+CCACGACTACAACTCGGTTCCCCTCACCCAGACCAGGGTGTTTCTCAAGC
+                                                  
+GGGAGCGCTGCACTGACGGGCAAAAGTATTACTTGAAGCCGGTCTCGGTG
+                                                  
+GATGTGACGGTGGGTTGCACCTGTGCTAGACCCCAACTTGTGTAA
+                                             
+>MW122467.1 Hippocampus erectus clone EVM0015987_IL12a interleukin mRNA, complete cds
+ATGACAAACATCCATTTCTTTGTGATCAGCTGTTTGCTCGTCACGTCCAC
+                                                  
+GCTGAAGTGGCGTACGGCTACGTCACTGCCCGTGCAGGCGCAGCTGAGCT
+                                                  
+CCGAGGAGTGCAAAAAATGCTCCGCGCTCTTCGTCAGCCTCTTGAGAAAT
+                                                  
+GTCACGGGGCTCCTCAGCGGTAACGTTTTGTGTTACGGTCTCAAGCCAAA
+                                                  
+TGACAAAGCAACCGTAAGCAGCTCGGCTGAGACGGTGCAAGCCTGCGCGC
+                                                  
+CGAATGTGCAAGAGAATTTCAGCTGCATGCCACAAAGAAATACATCCTTC
+                                                  
+AGTGAGAGTGAGTGCGTGTCGAGCATCATGAAGGACTTGGTCCACTACGA
+                                                  
+TGCCCTCATTCAGTCCTACCTCAAGTTGACACTCAGGAGCCCTGAAGAAG
+                                                  
+AAACGGCACTTCTGAGCCCAACACTCGAAATCATCCACAACTTGAAGAAG
+                                                  
+TGTTTGTTGAGAGTCGCTGGAGGGATGAACCCTGCAGAGGAGGACACGCC
+                                                  
+CTATATGTGGGGAGACAACAGTTTCACCAACCGACATGAAATGTGCAAGA
+                                                  
+TGATGAGAGGCTTCCACATCCGAGCCATCACCATCAACCGAGCGATGGGC
+                                                  
+TACCTCTCCTCAGGAGACCACCTGAAGTAA
+                              
+>MW122466.1 Hippocampus erectus clone EVM0005207_IL12B interleukin mRNA, complete cds
+ATGGGAGCAAATAGACTCAAATACTTCCCAGAAAAATTCACGGTGGCTGC
+                                                  
+ATTGCACGACTTAGTCACATTGTCGTGCGATGTAGCATCCAAAGGTGATG
+                                                  
+AAGTCACATGGAAGTTTAGAGGTGAGGAAATCGATGAAGATTACCAGGAC
+                                                  
+GACATGAAGAAGATTGGTCCCAATCTACTGCTCCAGAATGTAGGCAGGCC
+                                              ****
+CATGCTCGGAGAGTACACTTGCTGGAGCAGAGGGAAGAGCATGTCCACTT
+                                                  
+ATCTCCTGCTGAAGGCTGAGGAGGAGAAGGAACTCGATTCTTTCCTCACC
+                                                  
+TGTCGTGCCAATTCTTACAACTGCACTTTTAGCTGCACATGGAACTACAC
+                                                  
+TAAATACGAACTTGTACGCCTCGGACTGGGGCCACATTGCCGCGAAGGAG
+                             ****                 
+GCGACTTGTGCAGCTGGGTCAGCAGCACCATTGACAAACAAGATGGCAGA
+                                                  
+CTCCACTTTGAGCTGCGCCACTCGCTTTCACCTTACTCCGAGGAGAGCAC
+                                                  
+CATGCTAGAACTCACAGCCGAAGCCATCGAAAACTACTCTTTCCTCAGGA
+                                                  
+GGATCAAAAAATTTTATCTTCACGATATCATTCAACCAGACAGTCCTCAA
+                                                  
+ATTGTCAAATGTCAAGAATTGGAACACTACTTAAGCGTGACCGTTCGACC
+                                                  
+TCCATGCAGCTGGTCCAGCCCTGACAGCTTCTTCCCCCTGGAACACCAAG
+                                                  
+TGGAATATAGGCTCAAAAATGATGGACAGGTCAAATGCTCCAAACCCTCC
+                                                  
+CAGCTACCCAAAAAGATCAGCAGCCTGAGGGCCCGCTCCCGGGACCTGCT
+                             ****                 
+GGTCCAGTCGGCCTGGAGCCGGTGGTCTGAATGGACAAATGTAAAGTGCT
+         ****                                     
+GTCTGCTATCTTCTTCGATCTGTCACATGTCAGAAACGCAGTGA
+                                            
+>MW122465.1 Hippocampus erectus clone EVM0016748_IL34 interleukin mRNA, complete cds
+ATGGTCCAACAGTCCACCTCAATCCGCCTGCTGGGAGCCCTTTTCGGGCT
+                                                  
+GTTTCTGCTCATGCCTGATCTGATGGCACCAACGCCGCCAAGCATGTGCA
+                                                  
+CTCCCTTGAGGACGCTTGATGACAGTCTGAGCCACAGGCGACGCTACATG
+                                                  
+AAGCACAATTTCCCCATCAACTACACTGTCAGGATTCATCACGAGGAAGT
+                                                  
+TTTTAAACTCTCAAACATCAGCAAAATGAAGCTACGGATGGACAACTTGG
+                                                  
+AAGAACTTCACCTTCAGAGGATGTGGTTCCTTGTTAACCACAGCGTGTTG
+                                                  
+AAAAGGATAATACGAGTCATGCCAGACAGACATCCTTCACGTCCCTACAC
+                                                  
+TACAGAGTTGGAGAGACGTCTGCAAGATGCCGAGGGAGTCTTCGTGCAGT
+                                                  
+CGTATCCTCCAGAGGTGTTCCAGCAGGAACTTCCAGATGCAATCCAAGAC
+                                                  
+ATTTGGGATTGTTTAACAGAAGAGTCAGACAAAGTGCCAGAGTACAGCTG
+                                                  
+GAGATTTGCTTCTCCAAAATCCCTTTTGGACAATTTCTGTCACACCATGC
+                                                  
+ATTGCCTCTTCCGTGAATGCTTTGCCACCACAGAAACACAGCAGGACCAA
+                                                  
+TCTGATTCCTTCCATTGTCAGAAAGGCAGGAAGAAAGCCCTCGGCGCAAA
+                                                  
+AAGGTGA
+       
+>MW122464.1 Hippocampus erectus clone EVM0010612_IL8 interleukin mRNA, complete cds
+ATGATGAGCAAAGTGATCCTCGGTGCTCTGCTGGTCCTGCTGGCTTCTGT
+                                                  
+GGCTATCAGTGAAGGAATGACTCTAAGAAGTTTGGGAGTTGAGCTGCACT
+                                                  
+GCCGCTGCATCCAGACGGAGAGCAGACCCATCGGCCGCCACATCGAGAAG
+                                ****              
+GTTGAGCTGATTCCCGCCAACTCTCACTGTGAGGAGACCGAGATCATTGC
+                                                  
+TACACTTAAACAGACTGGCCAGGAGGTGTGCCTTGACCCTGCAGCTCGCT
+                ****                              
+GGGTGAAGAGAGTCATTGAGAGGATCCTCAATAACAGCAAAAGACGTTGA
+                                                  
+>MW122463.1 Hippocampus erectus clone EVM0018100_IL11 interleukin mRNA, complete cds
+ATGAAATTGCTGCTCGACTCGTCGTCGTCGCTCCTCTTCTCGCTGCTATT
+                                                  
+GGCCCAGCTGCCCGTCTTCACGTCTGCCTCCCCGGTGCCTCAGCGGCGGC
+****                                           ***
+CCGGCGACATGGACAGGCTGTCCAACCAGACCAAAAGTCTCATGAAGCTC
+*                                                 
+ACGCAGGAACTGCTGAGGGAGCACGCCTTCGAATCTGACGTGGAGCCCCA
+                                                  
+CAGGTTCAGGTCCCTGCCAGAAATGAGCAACAGATCGGCCAATGATCTCA
+                                    ****          
+ACAACCTTGAGCTGAAGCCCACACTCTCCCAGCTGCACGCCGACCTGAAG
+                                                  
+CTCTACGAGCACCACTTTGAGTGGCTCAACAGGGTGTCCAAGAAGCACCA
+                                                  
+CCACCAGGCACTGCCCAAGCTGGTGGAGGTGATCAAGGAGATGAAGTCGC
+                                                  
+TCATCAATCTCCTGCACCGTCAGATGCAGAGGGTGGACGCACCGAAGCTG
+                                                  
+ACCCCCGCCACGCCCTCCCTACCGCCGCACCTCCGTTACCAGTTTGATGT
+                                                  
+GCTGCAGTCCAGCCAGGAGCTCCTGCACCACTTCAAGCTTTTCTGCGATT
+                                                  
+GGGCAATCCGAGCGTTCATTAGCCTAAAGCCAAAGATCACACCGGCTCAA
+                                                  
+TGA
+   
+>MW122462.1 Hippocampus erectus clone EVM0004134_IL6 interleukin mRNA, complete cds
+ATGACCTCCGAAACGTACGTGCAAATCCTCGCTGTGGGGTTGCTGGCCTT
+                                            ****  
+TCTAGTACTACGTGCCTCCGGAGCTCCGCTTCCTGAGGCACCCGCCGTCT
+                                                  
+TTCCATCAACTGACACCTCAAGTGAGGAGGAAACCGAGTCCTCCGAGCTG
+                                                  
+CTGAGCTCCTCTGATGTTTGGGAGTCGGTTCTGGCTACCGCTAAAGAGCA
+                                                  
+CCAGAAATCTTTTGAAGATGAATTCCAAAACAATGTCCAGTTTCATTTAC
+                                                  
+TGGAGGACTACAAAATCTCCCAGCTTCCAGCAAACTGTCCCTCCTCCAAC
+                                                  
+TTCAGCAAGGAGGCTTGCCTCCACAGGCTGGCCAAAGGTCTGTCCTTTTA
+                             ****                 
+TACGAGTCTTCTGAAGCAAGTGGAGAAAGAATATCCCGGCAGTAGAATTC
+                                                  
+TGTCCGAGGCCAAACGCTACACCGGACTCCTCCTCTGGAACATCAAACAA
+       ****                                       
+AAGATGAAAAAGCCAGAGGAGGTCACAAGCCTAAGCAGCAGCCAGGAGAA
+                                                  
+AAGCCTGCTGGAGTCATTGGACAAGGCAGATGCTTTTCAGAGAAAGATGA
+                                                  
+CGGCGCACAGCATCCTGCGGCAGCTCTACGTCTTCATGGTTGATGGCAAG
+                                                  
+AGGGCGCTAAGCCGGAGAGAAAGGCTAGTCACATCCGCAACAAAGGCCGT
+                                            ****  
+GTCAGGAAAGTTGGGCAAAGCCTGA
+                         
+>MW122461.1 Hippocampus erectus clone EVM0014277_IL20 interleukin mRNA, complete cds
+ATGACGACAAGCTTGCTCTACTTCTCGCTCGGTCTCCTGCTCGGTCTTGA
+                                                  
+GGCCAAACCTGCGCTCACCTTGTCGCTGGTCGACAACTGCAGCTTCAGCG
+****                                              
+TCCACATGCCGGAGCTACGAAGATATTACTCCGAAATACGCATGAAAGCG
+                                                  
+ATTCGAGAAGACACAGAGATTGGAGTGAGGATTCTGAGCAAAACGGCAAT
+                                                  
+GAGAGACGTTCAGGATGATCAGACATGCTGCTTCCTGCGCCTGCTCCTAC
+                                                  
+GCTTCTACGTGGAGAGGGTGTTCCGCAACTTTGCCTGCGATCAGCCACAG
+                                                  
+GAGCAACGCAGCTCCAGCGCCCTGGCCAATGCTTTTGTCGCCATGAAACG
+                       ****                       
+GAATATCAACAAATGTCACTGCCTCTGCAAAGAGGGGACGCACAAAGCAA
+                                                  
+TCGACTCTCTGGAAACGGAGTTTACCAAGCTGTCCATCGACAAGGCGGCA
+                                                  
+AAGAAGGCCGTCGCGGAGTTGGATACACTACTGGATTGGCTGGACGAAGT
+     ****                                         
+GGACCAGGCATCAGCCACAGAATAA
+                         
+>MW122460.1 Hippocampus erectus clone EVM0015630_IL10 interleukin mRNA, complete cds
+ATGAGCACCAGATGTCTCTCGGCCCTGCTGTTGTTCCTGAGCGCGCAGTT
+                    ****                          
+TCTCCTCAGCAACGTGTGGTGCACTCCCATGTGCAACAACCAATGCTGTC
+                                                  
+GCTTCGTGGAGCGCTTCCCCGGCAGGCTTCGGAGGCTGCGAGAAGACTAC
+                                                  
+GTGCAGATCAGGGATTTTTACGTGAGTACCAGACGTACAGAGACTGTCTG
+                                                  
+CGAAGACCGCATCGTGCAGACTAATCCCCCGCACGCTCTGCTTGCTCTGA
+                                                  
+CACATTTTCTTTTTTTTTTTACACAGGAAGCAAACGATGACCTGGACACA
+                                                  
+GCGCTGCTTGACCAGACTGTCGAGGATTCTTTTAGAACGCCATTTGCCTG
+                                                  
+CCACGCCATGAATAGCATTCTGGACTTTTACCTGGCCACGGTTCTGCCGG
+                                 ****             
+CAGCCATCGCGGGGGTGTCGGAGGACACGAGGGACTTGAAACCTTACGTG
+                                                  
+GAGTCCATCCAGCTGATATTTGACGAGCTCAAGAGGGATGTCACCCAATG
+                                                  
+TCGGAAATACTTTGCCTGCCAGAAGCAGTTTGACATCATCAAACTGAATA
+                                                  
+TGACGTACAGTCAGATGCAAAACAAAGGCGTGTACAAAGCTATGGGCGAG
+                                                  
+CTGGACGTGCTCTTTAACTACATCGAAACATATCTGGCTTCGAAACGTCT
+                                                  
+CCGGAACCACGCCGTGCCCTCGTGA
+                         
+>MW122459.1 Hippocampus erectus clone EVM0000073_IL21 interleukin mRNA, complete cds
+ATGAAACTTGTTGTTGTGTGCCTTCTCGCAGTTTGCTGCGCTTCTTTCGC
+                                                  
+CAGCGCCGCCGGTGTGACACTGGAGAGGAGAAAACTGCTTGAAGTCGTGA
+                                                  
+AGCAACTTGGCGATGTCAAAGACTCGTTAGAGCGCAGAGAGCTGCTGGTG
+                                                  
+AACACGCCGCCGCAGAATATTGAGGACTGTTGCTGTCTCTCAGCATTACG
+                                                  
+ATGCTTCCGGGCAAGCTTGCATGTGCAGTTCAACGCGACAGAAAGAAAGC
+                                                  
+AAGACAAACTTTACCGAAGCCTCAAGCACCCCATCACTGAGAGGGCTCTG
+                                                  
+GACTTTTGCAAAACAGGAAATGCTGTGTCCACCTGCGAAACGTGTGATTC
+                                                  
+ACAACCGAAGGCTACCGCTCCGGAATTCGTCAAAAGACTGGAGTCCCTCA
+                                                  
+TTCAAAGGGCTATCAGCAGACTGAGTGACAACTGA
+                                   
