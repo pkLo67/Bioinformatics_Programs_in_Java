@@ -1,6 +1,6 @@
 ## Bioinformatics_Programs_in_Java
 
-* BioJava-based_Programs
+* BioJava-based_Programs (for BioJava 1.7.1 release)
 	* FetchGenPeptBank.java: This Java program is used to fetch gene nucleotides and protein sequences using their accession numbers.
 	* ReadFastaGenbankDNA.java: This Java program is used to read either a fasta or genebank file based on the selected option.
 	* DNAtoProteinTranslation.java: This Java program is used to translate DNA sequences into their respective protein sequences.
