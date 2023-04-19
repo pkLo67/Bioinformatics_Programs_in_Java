@@ -32,6 +32,7 @@
 * Various_Programs
 	* Average.java: Use Array to store integers passed through the command line and calculate the average.
 	* LargestNumberFinder.java: Identify the largest number from 10 integers entered by the user.
+	* NameFrameGUI.java: A simple GUI for generating the full name according to the entered first and last names.
 	* NumberGuess.java: Use the do-while loop to ask the player to guess a number generated from Math.random().
 	* PrintPairedBases.java: Use the for loop and charAt() to print paired DNA bases in a vertical order.
 	* SortNumbers.java: Use ArrayList to store integers passed through the command line and sort numbers.
